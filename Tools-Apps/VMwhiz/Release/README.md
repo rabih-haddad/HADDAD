@@ -5,8 +5,8 @@ VMwhiz is a PowerShell-based graphical user interface (GUI) application designed
 
 Developed by Rabih HADDAD, VMwhiz provides an intuitive experience for IT experts and administrators to efficiently manage VM workflows.
 
-- **Version**: 1.0  
-- **Release Date**: April 20, 2025  
+- **Version**: 0.9.0  
+- **Release Date**: April 07, 2025  
 - **Publisher**: Rabih HADDAD  
 
 ## Overview
