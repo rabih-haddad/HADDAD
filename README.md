@@ -34,19 +34,21 @@ VMwhiz simplifies Hyper-V VM management by offering a modern GUI that automates 
 - In-depth activity and error logs saved to a file and the Windows Event Viewer.
 - Export logs directly from the UI.
 
-## User Interface
 
-- **Modern Loading Experience**: Display a borderless loading screen with progress bars and status updates for a seamless startup.
-- **Styled Controls**: Utilize custom GroupBox elements with refined border designs to enhance visual appeal.
-- **Dynamic Feedback**: Deliver real-time UI updates during VM creation and management tasks, ensuring an interactive experience.
+## Antivirus Consideration
 
-
-## Antivirus Considerations
 
 The VMwhiz executable (`VMwhiz.exe`) may be flagged as potentially malicious by some antivirus software due to its automation capabilities and system-level interactions with Hyper-V. To mitigate this:
 
 - **Windows Defender Integration**: During execution, VMwhiz will prompt the user to add `VMwhiz.exe` to the Windows Defender exclusion list, ensuring uninterrupted operation on systems using Microsoft’s built-in antivirus solution.  
 - **Third-Party Antivirus**: For other antivirus programs (e.g., Norton, McAfee, or Kaspersky), manual intervention is required. You must add `VMwhiz.exe` to the exclusion or trusted applications list within the respective antivirus software to prevent false positives and ensure full functionality.
+  
+
+## User Interface
+
+- **Modern Loading Experience**: Display a borderless loading screen with progress bars and status updates for a seamless startup.
+- **Styled Controls**: Utilize custom GroupBox elements with refined border designs to enhance visual appeal.
+- **Dynamic Feedback**: Deliver real-time UI updates during VM creation and management tasks, ensuring an interactive experience.
 
 
 ## System Requirements
