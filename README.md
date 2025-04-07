@@ -15,7 +15,7 @@ VMwhiz simplifies Hyper-V VM management by offering a modern GUI that automates 
 
 ## Features
 
-### VM Management
+### VM Provisioning
 - Provision multiple VMs with customizable configurations in a single operation.
 - Configure VM settings — including resource, storage, and network — prior to deployment.
 - Delete VMs and automatically remove their associated file structure, with a dedicated maintenance task to manage files locked by Hyper-V for complete cleanup.
