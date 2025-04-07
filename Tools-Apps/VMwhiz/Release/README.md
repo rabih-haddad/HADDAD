@@ -103,10 +103,10 @@ The VMwhiz executable (`VMwhiz.exe`) may be flagged as potentially malicious by 
 ## Configuration
 
 - **Registry Storage**:  
-  - Location: `HKCU:\Software\R-HADDAD\Applications\VMwhiz\`.  
+  - Location: `HKCU:\Software\RHADDAD\Applications\VMwhiz\`.  
   - Keys: `Default` (baseline settings), `UserProfile` (user-specific settings).  
 - **Log File and DB CSV**:  
-  - `C:\Users\YourUsername\AppData\Roaming\VMwhiz`  
+  - `C:\Users\Username\AppData\Roaming\VMwhiz`  
 - **Default Settings**:  
   - RAM: 4 GB, vCPUs: 4, Disk: 60 GB (Dynamic), Generation: 2, Network: "Default Switch".
 
