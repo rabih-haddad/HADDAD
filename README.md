@@ -1,4 +1,6 @@
 # **Rabih HADDAD**
+Technical Architect - Microsoft 365 Expert
+#
 
 - Expert in Windows 365: Design, Cloud PC Provisioning, Custom Image, etc.
 - Expert in Microsoft Intune and Autopilot: Device management, Application packaging, etc.
