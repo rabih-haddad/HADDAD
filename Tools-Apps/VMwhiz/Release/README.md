@@ -13,7 +13,7 @@ Developed by Rabih HADDAD, VMwhiz provides an intuitive experience for IT expert
 
 ## Overview
 
-VMwhiz simplifies Hyper-V VM management by offering a modern GUI that automates VM provisioning. Key capabilities include bulk VM creation, resource allocation, real-time status tracking, and seamless integration with Microsoft Hyper-V.
+VMwhiz simplifies provisioning virutal machines on Hyper-V VM. Key capabilities include bulk VM provisioning, resource allocation, real-time status tracking, and seamless integration with Microsoft Hyper-V.
 
 <img src="Images/VMwhiz_Screenshot_001.png" alt="VMwhiz">
 
@@ -32,7 +32,7 @@ VMwhiz simplifies Hyper-V VM management by offering a modern GUI that automates 
 - VM Calculator calculates recommended VM counts based on system resources.
 
 ### Prerequisite Validation
-- Detect and optionally install Hyper-V if not present.
+- Detect and promt the user to install Hyper-V if not present.
 - Ensure administrative privileges and compatible PowerShell/.NET Framework versions.
 
 ### Robust Logging
