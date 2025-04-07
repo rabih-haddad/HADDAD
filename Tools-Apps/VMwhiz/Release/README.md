@@ -1,4 +1,6 @@
-# VMwhiz
+<img src="Images/VMwhiz_Transparent.png" alt="VMwhiz" width="254" height="56">
+
+##
 
 VMwhiz is a PowerShell-based graphical user interface (GUI) application designed to streamline the provisioning of Hyper-V virtual machines (VMs) on Windows platforms. 
 
@@ -7,13 +9,16 @@ Developed by Rabih HADDAD, VMwhiz provides an intuitive experience for IT expert
 
 - **Version**: 0.9.0  
 - **Release Date**: April 07, 2025  
-- **Publisher**: Rabih HADDAD  
+- **Developer**: Rabih HADDAD  
 
 ## Overview
 
 VMwhiz simplifies Hyper-V VM management by offering a modern GUI that automates VM provisioning. Key capabilities include bulk VM creation, resource allocation, real-time status tracking, and seamless integration with Microsoft Hyper-V.
 
+<img src="Images/VMwhiz_Screenshot_001.png" alt="VMwhiz" width="421" height="317">
+
 ## Features
+
 
 ### VM Provisioning
 - Provision multiple VMs with customizable configurations in a single operation.
@@ -42,7 +47,8 @@ The VMwhiz executable (`VMwhiz.exe`) may be flagged as potentially malicious by 
 
 - **Windows Defender Integration**: During execution, VMwhiz will prompt the user to add `VMwhiz.exe` to the Windows Defender exclusion list, ensuring uninterrupted operation on systems using Microsoft’s built-in antivirus solution.  
 - **Third-Party Antivirus**: For other antivirus programs (e.g., Norton, McAfee, or Kaspersky), manual intervention is required. You must add `VMwhiz.exe` to the exclusion or trusted applications list within the respective antivirus software to prevent false positives and ensure full functionality.
-  
+
+<img src="Images/VMwhiz_Screenshot_003.png" alt="VMwhiz" style="display: block; margin: 0 auto;">
 
 ## User Interface
 
@@ -66,6 +72,8 @@ The VMwhiz executable (`VMwhiz.exe`) may be flagged as potentially malicious by 
 ## How to use VMwhiz:
 1. **Start VMwhiz**:  
    - Launch the `.exe`. A loading screen validates prerequisites before displaying the main interface.  
+
+<img src="Images/VMwhiz_Screenshot_002.png" alt="VMwhiz" width="325" height="404" align="right">
 
 2. **Main Interface**:  
    - **VM Name**: Specify a base name for new VMs (e.g., "TestVM").  
