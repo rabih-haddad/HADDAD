@@ -15,7 +15,7 @@ Developed by Rabih HADDAD, VMwhiz provides an intuitive experience for IT expert
 
 VMwhiz simplifies Hyper-V VM management by offering a modern GUI that automates VM provisioning. Key capabilities include bulk VM creation, resource allocation, real-time status tracking, and seamless integration with Microsoft Hyper-V.
 
-<img src="Images/VMwhiz_Screenshot_001.png" alt="VMwhiz" width="421" height="317">
+<img src="Images/VMwhiz_Screenshot_001.png" alt="VMwhiz">
 
 ## Features
 
@@ -73,7 +73,7 @@ The VMwhiz executable (`VMwhiz.exe`) may be flagged as potentially malicious by 
 1. **Start VMwhiz**:  
    - Launch the `.exe`. A loading screen validates prerequisites before displaying the main interface.  
 
-<img src="Images/VMwhiz_Screenshot_002.png" alt="VMwhiz" width="325" height="404" align="right">
+<img src="Images/VMwhiz_Screenshot_002.png" alt="VMwhiz" align="right">
 
 2. **Main Interface**:  
    - **VM Name**: Specify a base name for new VMs (e.g., "TestVM").  
