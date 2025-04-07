@@ -121,8 +121,8 @@ The VMwhiz executable (`VMwhiz.exe`) may be flagged as potentially malicious by 
 
 - **Hyper-V Missing**: Confirm Hyper-V is enabled or allow VMwhiz to install it (requires reboot).  
 - **Access Denied**: Run as Administrator.  
-- **UI Unresponsive**: Review logs for errors; adjust sleep intervals if necessary.  
-- **Icon Not Found**: Verify the `ICONS` folder is in the script or `.exe` directory.
+- **UI Unresponsive**: Review logs for errors.  
+- **Icon Not Found**: Verify the `ICONS` folder is in the `.exe` directory.
 
 ## License
 
