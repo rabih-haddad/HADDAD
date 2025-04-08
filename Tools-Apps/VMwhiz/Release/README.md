@@ -32,7 +32,7 @@ VMwhiz improves the provisioning of virtual machines within Microsoft Hyper-V en
 - The VM Calculator provides advanced functionality by analyzing available system resources to determine the optimal number of virtual machines (VMs) that can be effectively supported. It evaluates key metrics such as CPU, memory, and storage, delivering recommendations to ensure efficient resource utilization and maintain performance stability within virtualized environments.
 
 ### Prerequisite Validation
-- Detect and promt the user to install Hyper-V if not present.
+- Detect and prompt the user to install Hyper-V if not present.
 - Ensure administrative privileges and compatible PowerShell/.NET Framework versions.
 
 ### Robust Logging
