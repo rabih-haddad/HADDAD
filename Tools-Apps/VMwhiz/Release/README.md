@@ -29,7 +29,7 @@ VMwhiz improves the provisioning of virtual machines within Microsoft Hyper-V en
 - Define VM properties such as RAM, vCPUs, disk size, disk type (Dynamic or Fixed), generation (1 or 2), network, and checkpoints through a dedicated settings dialog.
 
 ### Resource Insights
-- The VM Calculator provides advanced functionality by analyzing available system resources to determine the optimal number of virtual machines (VMs) that can be effectively supported. It evaluates key metrics such as CPU, memory, storage, and network capacity, delivering precise recommendations to ensure efficient resource utilization and maintain performance stability within virtualized environments.
+- The VM Calculator provides advanced functionality by analyzing available system resources to determine the optimal number of virtual machines (VMs) that can be effectively supported. It evaluates key metrics such as CPU, memory, and storage, delivering recommendations to ensure efficient resource utilization and maintain performance stability within virtualized environments.
 
 ### Prerequisite Validation
 - Detect and promt the user to install Hyper-V if not present.
