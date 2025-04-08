@@ -1,4 +1,4 @@
-<img src="Images/VMwhiz_Transparent.png" alt="VMwhiz" width="254" height="56">
+<img src="Images/VMwhiz-Icon-Transparent.png" alt="VMwhiz" width="56" height="56"> <img src="Images/VMwhiz_Transparent.png" alt="VMwhiz" width="254" height="56">
 
 ##
 
