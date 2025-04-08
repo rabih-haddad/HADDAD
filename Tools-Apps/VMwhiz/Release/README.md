@@ -1,4 +1,4 @@
-<img src="Images/VMwhiz-Icon-Transparent.png" alt="VMwhiz" width="56" height="56"> <img src="Images/VMwhiz_Transparent.png" alt="VMwhiz" width="254" height="56">
+<img src="Images/VMwhiz-Icon-Transparent.png" alt="VMwhiz" width="42" height="42"> <img src="Images/VMwhiz_Transparent.png" alt="VMwhiz" width="190" height="42">
 
 ##
 
@@ -7,9 +7,27 @@ VMwhiz is a PowerShell-based graphical user interface (GUI) application designed
 
 Developed by Rabih HADDAD, VMwhiz provides an intuitive experience for IT experts and administrators to efficiently manage VM workflows.
 
-- **Version**: 1.0 (pre-release 0.9.0)  
-- **Release Date**: April 07, 2025  
+- **Version**: 1.0 (pre-release 0.9.1)  
+- **Release Date**: April 08, 2025  
 - **Developer**: Rabih HADDAD  
+
+##
+### **Release notes**
+  
+**Update 0.9.1 - April 08, 2025**
+- UI Enhancements: Improved form layouts, added tooltips, and updated labels for better user experience.
+- Validation: Enhanced input validation for VM names, paths, and configurations.
+- Registry Updates: Added logic to save and retrieve configurations, including disk type, checkpoints, and VM paths.
+- Dynamic Updates: Implemented real-time updates for dropdowns, labels, and progress bars.
+- Error Handling: Improved logging and error messages for better debugging.
+- Update Mechanism: Integrated version checking and update functionality with registry tracking.
+- Resource Calculations: Enhanced VM calculator logic for accurate resource estimation.
+- Cleanup Operations: Added maintenance tasks for cleaning up VMs and resources.
+- Modularization: Refactored functions for better readability and reusability.
+- Fixed VM Connection Issues: Resolved path errors, removed GUI freezes, and improved VM startup reliability.
+- Improved Dropdown Behavior: Ensured the last selected VM is reselected after refreshing, defaulting to the first item if not found.
+- Resolved Timer Errors: Fixed syntax issues to ensure timers run without crashing.
+- Improved GUI Responsiveness: Eliminated blocking delays by relying on asynchronous state checks. 
 
 ## Overview
 
