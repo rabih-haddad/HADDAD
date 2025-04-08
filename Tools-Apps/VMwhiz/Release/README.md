@@ -15,19 +15,19 @@ Developed by Rabih HADDAD, VMwhiz provides an intuitive experience for IT expert
 ### **Release notes**
   
 **Update 0.9.1 - April 08, 2025**
-- UI Enhancements: Improved form layouts, added tooltips, and updated labels for better user experience.
-- Validation: Enhanced input validation for VM names, paths, and configurations.
-- Registry Updates: Added logic to save and retrieve configurations, including disk type, checkpoints, and VM paths.
-- Dynamic Updates: Implemented real-time updates for dropdowns, labels, and progress bars.
-- Error Handling: Improved logging and error messages for better debugging.
-- Update Mechanism: Integrated version checking and update functionality with registry tracking.
-- Resource Calculations: Enhanced VM calculator logic for accurate resource estimation.
-- Cleanup Operations: Added maintenance tasks for cleaning up VMs and resources.
-- Modularization: Refactored functions for better readability and reusability.
-- Fixed VM Connection Issues: Resolved path errors, removed GUI freezes, and improved VM startup reliability.
-- Improved Dropdown Behavior: Ensured the last selected VM is reselected after refreshing, defaulting to the first item if not found.
-- Resolved Timer Errors: Fixed syntax issues to ensure timers run without crashing.
-- Improved GUI Responsiveness: Eliminated blocking delays by relying on asynchronous state checks. 
+- Fixed issue where the last selected VM was not retained after a refresh; now ensures reselection of the last chosen VM, defaulting to the first item if unavailable.
+- Fixed path errors, removed GUI freezes, and improved VM startup reliability.
+- Fixed syntax issues to ensure timers run without crashing.
+- Implemented logic to save and retrieve configurations, including disk type, checkpoints, and VM paths.
+- Implemented maintenance tasks to efficiently manage the cleanup of virtual machines and associated resources that are locked by Hyper-V after deletion operations.
+- Implemented real-time updates for dropdowns, labels, and progress bars.
+- Implemented version checking and update functionality with registry tracking.
+- Improved form layouts, added tooltips, and updated labels for better user experience.
+- Improved GUI Responsiveness: Eliminated blocking delays by relying on asynchronous state checks.
+- Improved input validation for VM names, paths, and configurations.
+- Improved logging and error messages for better debugging.
+- Improved VM calculator logic for accurate resource estimation.
+- Reworked functions for better readability and reusability.
 
 ## Overview
 
