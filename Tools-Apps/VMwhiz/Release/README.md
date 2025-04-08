@@ -94,7 +94,7 @@ The VMwhiz executable (`VMwhiz.exe`) may be flagged as potentially malicious by 
    - Review real-time operation status in the GUI.  
    - Access detailed logs in `VMwhiz_LOG.log` or Event Viewer ("Application" log, source "VMwhiz").
 
-## Directory Structure
+## Github Directory Structure
 
 - **Release**: Designated folder for the production-ready `VMwhiz.exe`.  
 - **Archive**: Recommended for storing versioned builds (e.g., `Archive\1.0.1\`).  
