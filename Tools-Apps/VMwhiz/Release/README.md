@@ -13,7 +13,7 @@ Developed by Rabih HADDAD, VMwhiz provides an intuitive experience for IT expert
 
 ## Overview
 
-VMwhiz simplifies provisioning virutal machines on Hyper-V VM. Key capabilities include bulk VM provisioning, resource allocation, real-time status tracking, and seamless integration with Microsoft Hyper-V.
+VMwhiz simplifies provisioning virutal machines on Hyper-V. Key capabilities include bulk VM provisioning, resource allocation, real-time status tracking, and seamless integration with Microsoft Hyper-V.
 
 <img src="Images/VMwhiz_Screenshot_001.png" alt="VMwhiz">
 
