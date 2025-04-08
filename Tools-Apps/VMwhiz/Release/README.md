@@ -13,7 +13,7 @@ Developed by Rabih HADDAD, VMwhiz provides an intuitive experience for IT expert
 
 ## Overview
 
-VMwhiz simplifies provisioning virutal machines on Hyper-V. Key capabilities include bulk VM provisioning, resource allocation, real-time status tracking, and seamless integration with Microsoft Hyper-V.
+VMwhiz improves the provisioning of virtual machines within Microsoft Hyper-V environments. Its core functionalities include bulk VM deployment, efficient resource allocation, real-time status monitoring, and robust integration with Microsoft Hyper-V.
 
 <img src="Images/VMwhiz_Screenshot_001.png" alt="VMwhiz">
 
@@ -29,7 +29,7 @@ VMwhiz simplifies provisioning virutal machines on Hyper-V. Key capabilities inc
 - Define VM properties such as RAM, vCPUs, disk size, disk type (Dynamic or Fixed), generation (1 or 2), network, and checkpoints through a dedicated settings dialog.
 
 ### Resource Insights
-- VM Calculator calculates recommended VM counts based on system resources.
+- The VM Calculator provides advanced functionality by analyzing available system resources to determine the optimal number of virtual machines (VMs) that can be effectively supported. It evaluates key metrics such as CPU, memory, storage, and network capacity, delivering precise recommendations to ensure efficient resource utilization and maintain performance stability within virtualized environments.
 
 ### Prerequisite Validation
 - Detect and promt the user to install Hyper-V if not present.
