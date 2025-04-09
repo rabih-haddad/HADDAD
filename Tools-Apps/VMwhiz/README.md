@@ -131,7 +131,3 @@ The VMwhiz executable (`VMwhiz.exe`) may be flagged as potentially malicious by 
 ## License
 
 © 2025 Rabih HADDAD. All rights reserved.
-
-## Support
-
-For issues or feedback, contact: [rabih.haddad@outlook.com](mailto:rabih.haddad@outlook.com)
