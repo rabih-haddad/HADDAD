@@ -24,7 +24,7 @@ Developed by Rabih HADDAD, VMwhiz provides an intuitive experience for IT expert
 - Improved form layouts, added tooltips, and updated labels for better user experience.
 - Improved GUI Responsiveness: Eliminated blocking delays by relying on asynchronous state checks.
 - Improved input validation for VM names, paths, and configurations.
-- Improved logic to save and retrieve configurations, including disk type, checkpoints, and VM paths.
+- Improved code logic to save and retrieve configurations, including disk type, checkpoints, and VM paths.
 - Improved logging and error messages for better debugging.
 - Improved VM calculator logic for accurate resource estimation.
 - Reworked functions for better readability and reusability.
