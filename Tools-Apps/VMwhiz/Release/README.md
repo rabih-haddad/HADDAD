@@ -18,13 +18,13 @@ Developed by Rabih HADDAD, VMwhiz provides an intuitive experience for IT expert
 - Fixed issue where the last selected VM was not retained after a refresh; now ensures reselection of the last chosen VM, defaulting to the first item if unavailable.
 - Fixed path errors, removed GUI freezes, and improved VM startup reliability.
 - Fixed syntax issues to ensure timers run without crashing.
-- Implemented logic to save and retrieve configurations, including disk type, checkpoints, and VM paths.
 - Implemented maintenance tasks to efficiently manage the cleanup of virtual machines and associated resources that are locked by Hyper-V after deletion operations.
 - Implemented real-time updates for dropdowns, labels, and progress bars.
 - Implemented version checking and update functionality with registry tracking.
 - Improved form layouts, added tooltips, and updated labels for better user experience.
 - Improved GUI Responsiveness: Eliminated blocking delays by relying on asynchronous state checks.
 - Improved input validation for VM names, paths, and configurations.
+- Improved logic to save and retrieve configurations, including disk type, checkpoints, and VM paths.
 - Improved logging and error messages for better debugging.
 - Improved VM calculator logic for accurate resource estimation.
 - Reworked functions for better readability and reusability.
