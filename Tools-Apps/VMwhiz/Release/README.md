@@ -3,7 +3,7 @@
 ##
 ## **Release notes**
   
-**Update 0.9.1 - April 08, 2025**
+**Update 0.9.1 - April 09, 2025**
 - Fixed issue where the last selected VM was not retained after a refresh; now ensures reselection of the last chosen VM, defaulting to the first item if unavailable.
 - Fixed path errors, removed GUI freezes, and improved VM startup reliability.
 - Fixed syntax issues to ensure timers run without crashing.
