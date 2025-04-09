@@ -1,4 +1,5 @@
-<img src="Images/VMwhiz-Icon-Transparent.png" alt="VMwhiz" width="42" height="42"> <img src="Images/VMwhiz_Transparent.png" alt="VMwhiz" width="190" height="42">
+<img src="Release/Images/VMwhiz-Icon-Transparent.png" alt="VMwhiz" width="42" height="42"> <img src="Release/Images/VMwhiz_Transparent.png" alt="VMwhiz" width="190" height="42">
+
 
 ##
 
@@ -18,7 +19,7 @@ Developed by Rabih HADDAD, VMwhiz provides an intuitive experience for IT expert
 
 VMwhiz improves the provisioning of virtual machines within Microsoft Hyper-V environments. Its core functionalities include bulk VM deployment, efficient resource allocation, real-time operation monitoring, and robust integration with Microsoft Hyper-V.
 
-<img src="Images/VMwhiz_Screenshot_001.png" alt="VMwhiz">
+<img src="Release/Images/VMwhiz_Screenshot_001.png" alt="VMwhiz">
 
 ## Features
 
@@ -51,7 +52,7 @@ The VMwhiz executable (`VMwhiz.exe`) may be flagged as potentially malicious by 
 - **Windows Defender Integration**: During execution, VMwhiz will prompt the user to add `VMwhiz.exe` to the Windows Defender exclusion list, ensuring uninterrupted operation on systems using Microsoft’s built-in antivirus solution.  
 - **Third-Party Antivirus**: For other antivirus programs (e.g., Norton, McAfee, or Kaspersky), manual intervention is required. You must add `VMwhiz.exe` to the exclusion or trusted applications list within the respective antivirus software to prevent false positives and ensure full functionality.
 
-<img src="Images/VMwhiz_Screenshot_003.png" alt="VMwhiz" style="display: block; margin: 0 auto;">
+<img src="Release/Images/VMwhiz_Screenshot_003.png" alt="VMwhiz" style="display: block; margin: 0 auto;">
 
 ## User Interface
 
@@ -76,7 +77,7 @@ The VMwhiz executable (`VMwhiz.exe`) may be flagged as potentially malicious by 
 1. **Start VMwhiz**:  
    - Launch the `.exe`. A loading screen validates prerequisites before displaying the main interface.  
 
-<img src="Images/VMwhiz_Screenshot_002.png" alt="VMwhiz" align="right">
+<img src="Release/Images/VMwhiz_Screenshot_002.png" alt="VMwhiz" align="right">
 
 2. **Main Interface**:  
    - **VM Name**: Specify a base name for new VMs (e.g., "TestVM").  
