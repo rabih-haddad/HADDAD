@@ -1,8 +1,8 @@
 ## **About**
 
-VMwhiz is a PowerShell-based GUI application tool designed to streamline the provisioning of Hyper-V VMs on Windows platforms.
+VMwhiz is a PowerShell-based GUI application tool designed to streamline the provisioning of Hyper-V VMs on Windows platform.
 
-I crafted VMwhiz to empower IT professionals with a robust tool, optimizing their daily tasks of creating and managing VMs on Hyper-V while effectively scaling their virtual infrastructure.
+I crafted VMwhiz to empower IT professionals with a robust tool, optimizing their tasks creating and managing VMs on Hyper-V while effectively scaling their virtual infrastructure.
 
 I am meticulously refining the application, enhancing its capabilities with each iteration, making it better every day with passion and care.
 
