@@ -2,6 +2,13 @@
 
 ##
 ## **Release notes**
+
+**Update 0.9.2 - April 10, 2025**
+- Fix a bug installing Hyper-V feature on Windows server #11
+- Fix a bug where an error occurs when the application starts refreshing the dropdown list of existing VMs #12
+
+##
+
   
 **Update 0.9.1 - April 09, 2025**
 - Fixed issue where the last selected VM was not retained after a refresh; now ensures reselection of the last chosen VM, defaulting to the first item if unavailable.
