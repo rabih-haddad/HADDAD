@@ -322,16 +322,16 @@
         "buttonCreate": "#232526"
       },
       "borderColors": {
-        "newVMFrame": "#232526",
-        "existingVMFrame": "#232526",
-        "optionsFrame": "#232526",
-        "statusFrameContainer": "#232526",
-        "appAutoUpdateGroupBox": "#232526",
-        "appStartupGroupBox": "#232526",
+        "newVMFrame": "#54adf7",
+        "existingVMFrame": "#32cd32",
+        "optionsFrame": "#a800cc",
+        "statusFrameContainer": "#de270a",
+        "appAutoUpdateGroupBox": "#a800cc",
+        "appStartupGroupBox": "#a800cc",
         "selectedVMDetailsGroupBox": "#232526",
-        "createProgressbarPanel": "#232a2e",
-        "HyperVPanel": "#232526",
-        "aboutPanel": "#232526"
+        "createProgressbarPanel": "#a800cc",
+        "HyperVPanel": "#a800cc",
+        "aboutPanel": "#a800cc"
       },
       "customPaintBorders": [
         {
