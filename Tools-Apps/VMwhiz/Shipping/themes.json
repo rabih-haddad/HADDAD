@@ -96,9 +96,32 @@
         "releasenotesButton": "#775e13",
         "updateButton": "#005A9E",
         "buttonCreate": "#133a52"
+      },
+      {
+    "borderColors": {
+      "newVMFrame": "SkyBlue",
+      "existingVMFrame": "#85c6a3",
+      "optionsFrame": "#71568d",
+      "statusFrameContainer": "SkyBlue",
+      "appAutoUpdateGroupBox": "#71568d",
+      "appStartupGroupBox": "#71568d",
+      "selectedVMDetailsGroupBox": "#85c6a3",
+      "createProgressbarPanel": "#33637e",
+      "HyperVPanel": "#71568d",
+      "aboutPanel": "#71568d"
+    },
+    "customPaintBorders": [
+      {
+        "control": "HyperVPanel",
+        "borderColor": "#71568d"
+      },
+      {
+        "control": "aboutPanel",
+        "borderColor": "#71568d"
       }
-    }
+    ]
   }
+}
 },
   {
   "name": "Jane (SkyBlue)",
