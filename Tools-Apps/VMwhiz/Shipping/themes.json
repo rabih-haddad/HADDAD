@@ -1,0 +1,24 @@
+[
+  {
+    "name": "Dark",
+    "new": false,
+    "colors": {
+      "form": "#0a1d29",
+      "panel": "#061119",
+      "optionsFrame": "#0a1d29",
+      "optionsFrameFore": "#FFFFFF"
+      // ...more properties
+    }
+  },
+  {
+    "name": "Solarized",
+    "new": true,
+    "colors": {
+      "form": "#002b36",
+      "panel": "#073642",
+      "optionsFrame": "#002b36",
+      "optionsFrameFore": "#b58900"
+      // ...more properties
+    }
+  }
+]
