@@ -7,20 +7,18 @@
       "panel": "#061119",
       "optionsFrame": "#0a1d29",
       "optionsFrameFore": "#FFFFFF"
-      
     }
   },
   {
-  "name": "Iyeye",
-  "new": false,
-  "colors": {
-    "form": "#a01002",
-    "panel": "#061119",
-    "optionsFrame": "#0a1d29",
-    "optionsFrameFore": "#FFFFFF"
-    
-  }
-},
+    "name": "Iyeye",
+    "new": false,
+    "colors": {
+      "form": "#a01002",
+      "panel": "#061119",
+      "optionsFrame": "#0a1d29",
+      "optionsFrameFore": "#FFFFFF"
+    }
+  },
   {
     "name": "Lamia",
     "new": false,
@@ -29,20 +27,18 @@
       "panel": "#061119",
       "optionsFrame": "#0a1d29",
       "optionsFrameFore": "#FFFFFF"
-      
     }
   },
   {
-  "name": "Neyla",
-  "new": false,
-  "colors": {
-    "form": "#a01002",
-    "panel": "#061119",
-    "optionsFrame": "#0a1d29",
-    "optionsFrameFore": "#FFFFFF"
-    
-  }
-},
+    "name": "Neyla",
+    "new": false,
+    "colors": {
+      "form": "#a01002",
+      "panel": "#061119",
+      "optionsFrame": "#0a1d29",
+      "optionsFrameFore": "#FFFFFF"
+    }
+  },
   {
     "name": "Salina",
     "new": true,
@@ -51,7 +47,6 @@
       "panel": "#073642",
       "optionsFrame": "#002b36",
       "optionsFrameFore": "#b58900"
-      
     }
   },
   {
@@ -62,7 +57,6 @@
       "panel": "#073642",
       "optionsFrame": "#002b36",
       "optionsFrameFore": "#b58900"
-      
     }
   }
 ]
