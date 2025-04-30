@@ -202,53 +202,103 @@
   }
 },
   {
-    "name": "Iyeye",
-    "new": false,
-    "colors": {
-      "form": "#a01002",
-      "panel": "#061119",
-      "optionsFrame": "#0a1d29",
-      "optionsFrameFore": "#FFFFFF"
-    }
-  },
-  {
-    "name": "Lamia",
-    "new": false,
-    "colors": {
-      "form": "#0a1d29",
-      "panel": "#061119",
-      "optionsFrame": "#0a1d29",
-      "optionsFrameFore": "#FFFFFF"
-    }
-  },
-  {
-    "name": "Neyla",
-    "new": false,
-    "colors": {
-      "form": "#a01002",
-      "panel": "#061119",
-      "optionsFrame": "#0a1d29",
-      "optionsFrameFore": "#FFFFFF"
-    }
-  },
-  {
-    "name": "Salina",
-    "new": true,
-    "colors": {
-      "form": "#002b36",
-      "panel": "#073642",
-      "optionsFrame": "#002b36",
-      "optionsFrameFore": "#b58900"
-    }
-  },
-  {
-    "name": "Eve",
-    "new": true,
-    "colors": {
-      "form": "#002b36",
-      "panel": "#073642",
-      "optionsFrame": "#002b36",
-      "optionsFrameFore": "#b58900"
+  "name": "Salina (darkGray)",
+  "new": false,
+  "colors": {
+    "form": "#181a1b",
+    "panel": "#232526",
+    "optionsFrame": "#232526",
+    "optionsFrameFore": "#FFFFFF",
+    "panels": {
+      "borderPanel": "#181a1b",
+      "panel": "#232526",
+      "statusPanel": "#232526",
+      "statusFrameContainer": "#181a1b",
+      "contentPanel": "#3a4a5a",
+      "tab1Content": "#181a1b",
+      "tab2Content": "#181a1b",
+      "tab3Content": "#181a1b",
+      "VMCalculatorTitleLineRed": "#ffb84d",
+      "VMCalculatorTitleLineYellow": "#ffb84d",
+      "calculatorPanel": "#2d3336",
+      "selectedVMDetailsGroupBox": "#181a1b",
+      "HyperVPanel": "#181a1b",
+      "appAutoUpdateGroupBox": "#181a1b",
+      "appStartupGroupBox": "#181a1b",
+      "optionsFrame": "#181a1b"
+    },
+    "jobQGrid": {
+      "BackgroundColor": "#232526",
+      "DefaultCellStyle_BackColor": "#232526",
+      "DefaultCellStyle_SelectionBackColor": "#3a4a5a",
+      "DefaultCellStyle_ForeColor": "#FFFFFF",
+      "GridColor": "#232526",
+      "ColumnHeadersDefaultCellStyle_BackColor": "#181a1b",
+      "ColumnHeadersDefaultCellStyle_ForeColor": "#FFFFFF",
+      "ColumnHeadersDefaultCellStyle_Alignment": "MiddleCenter",
+      "ColumnHeadersDefaultCellStyle_SelectionBackColor": "#ffb84d"
+    },
+    "existingVMGrid": {
+      "BackgroundColor": "#232526",
+      "BorderStyle": "None",
+      "GridColor": "#232526",
+      "RowHeadersVisible": false,
+      "ColumnHeadersDefaultCellStyle_BackColor": "#181a1b",
+      "ColumnHeadersDefaultCellStyle_ForeColor": "#FFFFFF",
+      "ColumnHeadersDefaultCellStyle_Alignment": "MiddleCenter",
+      "DefaultCellStyle_BackColor": "#232526",
+      "DefaultCellStyle_ForeColor": "#FFFFFF",
+      "DefaultCellStyle_SelectionBackColor": "#e6e6e6",
+      "DefaultCellStyle_SelectionForeColor": "#232526",
+      "DefaultCellStyle_Alignment": "MiddleLeft",
+      "CellBorderStyle": "SingleHorizontal",
+      "AlternatingRowsDefaultCellStyle_BackColor": "#232a2e"
+    },
+    "frames": {
+      "newVMFrame": "#181a1b",
+      "existingVMFrame": "#181a1b",
+      "optionsFrame": "#181a1b",
+      "appAutoUpdateGroupBox": "#181a1b",
+      "appStartupGroupBox": "#181a1b",
+      "selectedVMDetailsGroupBox": "#181a1b"
+    },
+    "buttons": {
+      "buttonAddJobToQ": "#00bfff",
+      "buttonAddJobToQ_disabled": "#808080",
+      "buttonClearJobQ": "#808080",
+      "buttonClearJobQ_active": "#ffb84d",
+      "buttonConnectVM": "#00bfff",
+      "buttonConnectVM_disabled": "#808080",
+      "buttonDeleteVM": "#ffb84d",
+      "buttonDeleteVM_disabled": "#808080",
+      "buttonGetVMALL": "#ffb84d",
+      "buttonISO": "#00bfff",
+      "buttonStartVM": "#00bfff",
+      "buttonStartVM_disabled": "#808080",
+      "buttonStopVM": "#ffb84d",
+      "buttonStopVM_disabled": "#808080",
+      "buttonVMCalculate": "#ffb84d",
+      "buttonVMPath": "#00bfff",
+      "donateButton": "#00bfff",
+      "releasenotesButton": "#ffb84d",
+      "updateButton": "#00bfff",
+      "buttonCreate": "#181a1b",
+      "MouseOverBackColor": {
+        "buttonAddJobToQ": "#3a4a5a",
+        "buttonClearJobQ": "#ffb84d",
+        "buttonConnectVM": "#3a4a5a",
+        "buttonDeleteVM": "#ffb84d",
+        "buttonGetVMALL": "#ffb84d",
+        "buttonISO": "#3a4a5a",
+        "buttonStartVM": "#3a4a5a",
+        "buttonStopVM": "#ffb84d",
+        "buttonVMCalculate": "#ffb84d",
+        "buttonVMPath": "#3a4a5a",
+        "donateButton": "#3a4a5a",
+        "releasenotesButton": "#ffb84d",
+        "updateButton": "#3a4a5a",
+        "buttonCreate": "#232526"
+      }
     }
   }
-]
+}
