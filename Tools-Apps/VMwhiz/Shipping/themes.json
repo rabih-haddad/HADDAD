@@ -301,5 +301,106 @@
       }
     }
   }
+},
+  {
+  "name": "Lica (Metalic)",
+  "new": true,
+  "colors": {
+    "form": "#23272A",
+    "panel": "#2C2F33",
+    "optionsFrame": "#23272A",
+    "optionsFrameFore": "#E0E0E0",
+    "panels": {
+      "borderPanel": "#23272A",
+      "panel": "#2C2F33",
+      "statusPanel": "#36393F",
+      "statusFrameContainer": "#23272A",
+      "contentPanel": "#A9A9A9",
+      "tab1Content": "#23272A",
+      "tab2Content": "#23272A",
+      "tab3Content": "#23272A",
+      "VMCalculatorTitleLineRed": "#FF8800",
+      "VMCalculatorTitleLineYellow": "#FF8800",
+      "calculatorPanel": "#6E6E6E",
+      "selectedVMDetailsGroupBox": "#23272A",
+      "HyperVPanel": "#23272A",
+      "appAutoUpdateGroupBox": "#23272A",
+      "appStartupGroupBox": "#23272A",
+      "optionsFrame": "#23272A"
+    },
+    "jobQGrid": {
+      "BackgroundColor": "#6E6E6E",
+      "DefaultCellStyle_BackColor": "#6E6E6E",
+      "DefaultCellStyle_SelectionBackColor": "#A9A9A9",
+      "DefaultCellStyle_ForeColor": "#E0E0E0",
+      "GridColor": "#6E6E6E",
+      "ColumnHeadersDefaultCellStyle_BackColor": "#23272A",
+      "ColumnHeadersDefaultCellStyle_ForeColor": "#E0E0E0",
+      "ColumnHeadersDefaultCellStyle_Alignment": "MiddleCenter",
+      "ColumnHeadersDefaultCellStyle_SelectionBackColor": "#FF8800"
+    },
+    "existingVMGrid": {
+      "BackgroundColor": "#6E6E6E",
+      "BorderStyle": "None",
+      "GridColor": "#6E6E6E",
+      "RowHeadersVisible": false,
+      "ColumnHeadersDefaultCellStyle_BackColor": "#23272A",
+      "ColumnHeadersDefaultCellStyle_ForeColor": "#E0E0E0",
+      "ColumnHeadersDefaultCellStyle_Alignment": "MiddleCenter",
+      "DefaultCellStyle_BackColor": "#6E6E6E",
+      "DefaultCellStyle_ForeColor": "#E0E0E0",
+      "DefaultCellStyle_SelectionBackColor": "#D3D3D3",
+      "DefaultCellStyle_SelectionForeColor": "#23272A",
+      "DefaultCellStyle_Alignment": "MiddleLeft",
+      "CellBorderStyle": "SingleHorizontal",
+      "AlternatingRowsDefaultCellStyle_BackColor": "#A9A9A9"
+    },
+    "frames": {
+      "newVMFrame": "#23272A",
+      "existingVMFrame": "#23272A",
+      "optionsFrame": "#23272A",
+      "appAutoUpdateGroupBox": "#23272A",
+      "appStartupGroupBox": "#23272A",
+      "selectedVMDetailsGroupBox": "#23272A"
+    },
+    "buttons": {
+      "buttonAddJobToQ": "#C0C0C0",
+      "buttonAddJobToQ_disabled": "#808080",
+      "buttonClearJobQ": "#808080",
+      "buttonClearJobQ_active": "#FF8800",
+      "buttonConnectVM": "#C0C0C0",
+      "buttonConnectVM_disabled": "#808080",
+      "buttonDeleteVM": "#FF8800",
+      "buttonDeleteVM_disabled": "#808080",
+      "buttonGetVMALL": "#FF8800",
+      "buttonISO": "#C0C0C0",
+      "buttonStartVM": "#C0C0C0",
+      "buttonStartVM_disabled": "#808080",
+      "buttonStopVM": "#FF8800",
+      "buttonStopVM_disabled": "#808080",
+      "buttonVMCalculate": "#FF8800",
+      "buttonVMPath": "#C0C0C0",
+      "donateButton": "#C0C0C0",
+      "releasenotesButton": "#FF8800",
+      "updateButton": "#C0C0C0",
+      "buttonCreate": "#23272A",
+      "MouseOverBackColor": {
+        "buttonAddJobToQ": "#B0B0B0",
+        "buttonClearJobQ": "#FF8800",
+        "buttonConnectVM": "#B0B0B0",
+        "buttonDeleteVM": "#FF8800",
+        "buttonGetVMALL": "#FF8800",
+        "buttonISO": "#B0B0B0",
+        "buttonStartVM": "#B0B0B0",
+        "buttonStopVM": "#FF8800",
+        "buttonVMCalculate": "#FF8800",
+        "buttonVMPath": "#B0B0B0",
+        "donateButton": "#B0B0B0",
+        "releasenotesButton": "#FF8800",
+        "updateButton": "#B0B0B0",
+        "buttonCreate": "#6E6E6E"
+      }
+    }
+  }
 }
 ]
