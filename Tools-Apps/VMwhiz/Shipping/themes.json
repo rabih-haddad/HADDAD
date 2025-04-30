@@ -284,19 +284,19 @@
       "updateButton": "#4a4a4a",
       "buttonCreate": "#181a1b",
       "MouseOverBackColor": {
-        "buttonAddJobToQ": "#5a5a5a",
+        "buttonAddJobToQ": "#4a4a4a",
         "buttonClearJobQ": "#ffb84d",
-        "buttonConnectVM": "#5a5a5a",
+        "buttonConnectVM": "#4a4a4a",
         "buttonDeleteVM": "#ffb84d",
         "buttonGetVMALL": "#ffb84d",
-        "buttonISO": "#5a5a5a",
-        "buttonStartVM": "#5a5a5a",
+        "buttonISO": "#4a4a4a",
+        "buttonStartVM": "#4a4a4a",
         "buttonStopVM": "#ffb84d",
         "buttonVMCalculate": "#ffb84d",
-        "buttonVMPath": "#5a5a5a",
-        "donateButton": "#5a5a5a",
+        "buttonVMPath": "#4a4a4a",
+        "donateButton": "#4a4a4a",
         "releasenotesButton": "#ffb84d",
-        "updateButton": "#5a5a5a",
+        "updateButton": "#4a4a4a",
         "buttonCreate": "#232526"
       }
     }
