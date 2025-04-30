@@ -1,128 +1,126 @@
 [
   {
-  "name": "Zee (darkBlue)",
-  "new": false,
-  "colors": {
-    "form": "#0a1d29",
-    "panel": "#061119",
-    "optionsFrame": "#0a1d29",
-    "optionsFrameFore": "#FFFFFF",
-    "panels": {
-      "borderPanel": "#0a1d29",
+    "name": "Zee (darkBlue)",
+    "new": false,
+    "colors": {
+      "form": "#0a1d29",
       "panel": "#061119",
-      "statusPanel": "#1F1F1F",
-      "statusFrameContainer": "#0a1d29",
-      "contentPanel": "#639BC8",
-      "tab1Content": "#0a1d29",
-      "tab2Content": "#0a1d29",
-      "tab3Content": "#0a1d29",
-      "VMCalculatorTitleLineRed": "#FF4500",
-      "VMCalculatorTitleLineYellow": "#E1B941",
-      "calculatorPanel": "#1A4967",
-      "selectedVMDetailsGroupBox": "#0a1d29",
-      "HyperVPanel": "#0a1d29",
-      "appAutoUpdateGroupBox": "#0a1d29",
-      "appStartupGroupBox": "#0a1d29",
-      "optionsFrame": "#0a1d29"
-    },
-    "jobQGrid": {
-      "BackgroundColor": "#133a52",
-      "DefaultCellStyle_BackColor": "#133a52",
-      "DefaultCellStyle_SelectionBackColor": "#1A4967",
-      "DefaultCellStyle_ForeColor": "#FFFFFF",
-      "GridColor": "#133a52",
-      "ColumnHeadersDefaultCellStyle_BackColor": "#0a1d29",
-      "ColumnHeadersDefaultCellStyle_ForeColor": "#FFFFFF",
-      "ColumnHeadersDefaultCellStyle_Alignment": "MiddleCenter",
-      "ColumnHeadersDefaultCellStyle_SelectionBackColor": "#FFFF00"
-    },
-    "existingVMGrid": {
-      "BackgroundColor": "#133a52",
-      "BorderStyle": "None",
-      "GridColor": "#133a52",
-      "RowHeadersVisible": false,
-      "ColumnHeadersDefaultCellStyle_BackColor": "#0a1d29",
-      "ColumnHeadersDefaultCellStyle_ForeColor": "#FFFFFF",
-      "ColumnHeadersDefaultCellStyle_Alignment": "MiddleCenter",
-      "DefaultCellStyle_BackColor": "#133a52",
-      "DefaultCellStyle_ForeColor": "#FFFFFF",
-      "DefaultCellStyle_SelectionBackColor": "#D7E2EB",
-      "DefaultCellStyle_SelectionForeColor": "#191970",
-      "DefaultCellStyle_Alignment": "MiddleLeft",
-      "CellBorderStyle": "SingleHorizontal",
-      "AlternatingRowsDefaultCellStyle_BackColor": "#0E2B3A"
-    },
-    "frames": {
-      "newVMFrame": "#0a1d29",
-      "existingVMFrame": "#0a1d29",
       "optionsFrame": "#0a1d29",
-      "appAutoUpdateGroupBox": "#0a1d29",
-      "appStartupGroupBox": "#0a1d29",
-      "selectedVMDetailsGroupBox": "#0a1d29"
-    },
-    "buttons": {
-      "buttonAddJobToQ": "#0078D4",
-      "buttonAddJobToQ_disabled": "#808080",
-      "buttonClearJobQ": "#808080",
-      "buttonClearJobQ_active": "#de270a",
-      "buttonConnectVM": "#0078D4",
-      "buttonConnectVM_disabled": "#808080",
-      "buttonDeleteVM": "#de270a",
-      "buttonDeleteVM_disabled": "#808080",
-      "buttonGetVMALL": "#FFBB04",
-      "buttonISO": "#0078D4",
-      "buttonStartVM": "#06b44b",
-      "buttonStartVM_disabled": "#808080",
-      "buttonStopVM": "#de270a",
-      "buttonStopVM_disabled": "#808080",
-      "buttonVMCalculate": "#FFBB04",
-      "buttonVMPath": "#0078D4",
-      "donateButton": "#0078D4",
-      "releasenotesButton": "#E1B941",
-      "updateButton": "#0078D4",
-      "buttonCreate": "#0a1d29",
-      "MouseOverBackColor": {
-        "buttonAddJobToQ": "#005A9E",
-        "buttonClearJobQ": "#670700",
-        "buttonConnectVM": "#005A9E",
-        "buttonDeleteVM": "#670700",
-        "buttonGetVMALL": "#775e13",
-        "buttonISO": "#005A9E",
-        "buttonStartVM": "#3b7b3b",
-        "buttonStopVM": "#670700",
-        "buttonVMCalculate": "#775e13",
-        "buttonVMPath": "#005A9E",
-        "donateButton": "#0060aa",
-        "releasenotesButton": "#775e13",
-        "updateButton": "#005A9E",
-        "buttonCreate": "#133a52"
+      "optionsFrameFore": "#FFFFFF",
+      "panels": {
+        "borderPanel": "#0a1d29",
+        "panel": "#061119",
+        "statusPanel": "#1F1F1F",
+        "statusFrameContainer": "#0a1d29",
+        "contentPanel": "#639BC8",
+        "tab1Content": "#0a1d29",
+        "tab2Content": "#0a1d29",
+        "tab3Content": "#0a1d29",
+        "VMCalculatorTitleLineRed": "#FF4500",
+        "VMCalculatorTitleLineYellow": "#E1B941",
+        "calculatorPanel": "#1A4967",
+        "selectedVMDetailsGroupBox": "#0a1d29",
+        "HyperVPanel": "#0a1d29",
+        "appAutoUpdateGroupBox": "#0a1d29",
+        "appStartupGroupBox": "#0a1d29",
+        "optionsFrame": "#0a1d29"
       },
-      {
-    "borderColors": {
-      "newVMFrame": "SkyBlue",
-      "existingVMFrame": "#85c6a3",
-      "optionsFrame": "#71568d",
-      "statusFrameContainer": "SkyBlue",
-      "appAutoUpdateGroupBox": "#71568d",
-      "appStartupGroupBox": "#71568d",
-      "selectedVMDetailsGroupBox": "#85c6a3",
-      "createProgressbarPanel": "#33637e",
-      "HyperVPanel": "#71568d",
-      "aboutPanel": "#71568d"
-    },
-    "customPaintBorders": [
-      {
-        "control": "HyperVPanel",
-        "borderColor": "#71568d"
+      "jobQGrid": {
+        "BackgroundColor": "#133a52",
+        "DefaultCellStyle_BackColor": "#133a52",
+        "DefaultCellStyle_SelectionBackColor": "#1A4967",
+        "DefaultCellStyle_ForeColor": "#FFFFFF",
+        "GridColor": "#133a52",
+        "ColumnHeadersDefaultCellStyle_BackColor": "#0a1d29",
+        "ColumnHeadersDefaultCellStyle_ForeColor": "#FFFFFF",
+        "ColumnHeadersDefaultCellStyle_Alignment": "MiddleCenter",
+        "ColumnHeadersDefaultCellStyle_SelectionBackColor": "#FFFF00"
       },
-      {
-        "control": "aboutPanel",
-        "borderColor": "#71568d"
-      }
-    ]
-  }
-}
-},
+      "existingVMGrid": {
+        "BackgroundColor": "#133a52",
+        "BorderStyle": "None",
+        "GridColor": "#133a52",
+        "RowHeadersVisible": false,
+        "ColumnHeadersDefaultCellStyle_BackColor": "#0a1d29",
+        "ColumnHeadersDefaultCellStyle_ForeColor": "#FFFFFF",
+        "ColumnHeadersDefaultCellStyle_Alignment": "MiddleCenter",
+        "DefaultCellStyle_BackColor": "#133a52",
+        "DefaultCellStyle_ForeColor": "#FFFFFF",
+        "DefaultCellStyle_SelectionBackColor": "#D7E2EB",
+        "DefaultCellStyle_SelectionForeColor": "#191970",
+        "DefaultCellStyle_Alignment": "MiddleLeft",
+        "CellBorderStyle": "SingleHorizontal",
+        "AlternatingRowsDefaultCellStyle_BackColor": "#0E2B3A"
+      },
+      "frames": {
+        "newVMFrame": "#0a1d29",
+        "existingVMFrame": "#0a1d29",
+        "optionsFrame": "#0a1d29",
+        "appAutoUpdateGroupBox": "#0a1d29",
+        "appStartupGroupBox": "#0a1d29",
+        "selectedVMDetailsGroupBox": "#0a1d29"
+      },
+      "buttons": {
+        "buttonAddJobToQ": "#0078D4",
+        "buttonAddJobToQ_disabled": "#808080",
+        "buttonClearJobQ": "#808080",
+        "buttonClearJobQ_active": "#de270a",
+        "buttonConnectVM": "#0078D4",
+        "buttonConnectVM_disabled": "#808080",
+        "buttonDeleteVM": "#de270a",
+        "buttonDeleteVM_disabled": "#808080",
+        "buttonGetVMALL": "#FFBB04",
+        "buttonISO": "#0078D4",
+        "buttonStartVM": "#06b44b",
+        "buttonStartVM_disabled": "#808080",
+        "buttonStopVM": "#de270a",
+        "buttonStopVM_disabled": "#808080",
+        "buttonVMCalculate": "#FFBB04",
+        "buttonVMPath": "#0078D4",
+        "donateButton": "#0078D4",
+        "releasenotesButton": "#E1B941",
+        "updateButton": "#0078D4",
+        "buttonCreate": "#0a1d29",
+        "MouseOverBackColor": {
+          "buttonAddJobToQ": "#005A9E",
+          "buttonClearJobQ": "#670700",
+          "buttonConnectVM": "#005A9E",
+          "buttonDeleteVM": "#670700",
+          "buttonGetVMALL": "#775e13",
+          "buttonISO": "#005A9E",
+          "buttonStartVM": "#3b7b3b",
+          "buttonStopVM": "#670700",
+          "buttonVMCalculate": "#775e13",
+          "buttonVMPath": "#005A9E",
+          "donateButton": "#0060aa",
+          "releasenotesButton": "#775e13",
+          "updateButton": "#005A9E",
+          "buttonCreate": "#133a52"
+        }
+      },
+      "borderColors": {
+        "newVMFrame": "SkyBlue",
+        "existingVMFrame": "#85c6a3",
+        "optionsFrame": "#71568d",
+        "statusFrameContainer": "SkyBlue",
+        "appAutoUpdateGroupBox": "#71568d",
+        "appStartupGroupBox": "#71568d",
+        "selectedVMDetailsGroupBox": "#85c6a3",
+        "createProgressbarPanel": "#33637e",
+        "HyperVPanel": "#71568d",
+        "aboutPanel": "#71568d"
+      },
+      "customPaintBorders": [
+        {
+          "control": "HyperVPanel",
+          "borderColor": "#71568d"
+        },
+        {
+          "control": "aboutPanel",
+          "borderColor": "#71568d"
+        }
+      ]
+    ],
   {
   "name": "Jane (SkyBlue)",
   "new": false,
