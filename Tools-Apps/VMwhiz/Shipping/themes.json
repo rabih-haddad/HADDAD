@@ -320,7 +320,29 @@
         "releasenotesButton": "#ffb84d",
         "updateButton": "#00bfff",
         "buttonCreate": "#232526"
-      }
+      },
+      "borderColors": {
+        "newVMFrame": "#232526",
+        "existingVMFrame": "#232526",
+        "optionsFrame": "#232526",
+        "statusFrameContainer": "#232526",
+        "appAutoUpdateGroupBox": "#232526",
+        "appStartupGroupBox": "#232526",
+        "selectedVMDetailsGroupBox": "#232526",
+        "createProgressbarPanel": "#232a2e",
+        "HyperVPanel": "#232526",
+        "aboutPanel": "#232526"
+      },
+      "customPaintBorders": [
+        {
+          "control": "HyperVPanel",
+          "borderColor": "#232526"
+        },
+        {
+          "control": "aboutPanel",
+          "borderColor": "#232526"
+        }
+      ]
     }
   }
 },
