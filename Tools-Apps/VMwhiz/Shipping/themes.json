@@ -7,6 +7,32 @@
     "panel": "#061119",
     "optionsFrame": "#0a1d29",
     "optionsFrameFore": "#FFFFFF",
+    "panels": {
+      "borderPanel": "#0a1d29",
+      "panel": "#061119",
+      "statusPanel": "#1F1F1F",
+      "statusFrameContainer": "#0a1d29",
+      "contentPanel": "#639BC8",
+      "tab1Content": "#0a1d29",
+      "tab2Content": "#0a1d29",
+      "tab3Content": "#0a1d29",
+      "VMCalculatorTitleLineRed": "#FF4500",
+      "VMCalculatorTitleLineYellow": "#E1B941",
+      "calculatorPanel": "#1A4967",
+      "selectedVMDetailsGroupBox": "#0a1d29",
+      "HyperVPanel": "#0a1d29",
+      "appAutoUpdateGroupBox": "#0a1d29",
+      "appStartupGroupBox": "#0a1d29",
+      "optionsFrame": "#0a1d29"
+    },
+    "frames": {
+      "newVMFrame": "#0a1d29",
+      "existingVMFrame": "#0a1d29",
+      "optionsFrame": "#0a1d29",
+      "appAutoUpdateGroupBox": "#0a1d29",
+      "appStartupGroupBox": "#0a1d29",
+      "selectedVMDetailsGroupBox": "#0a1d29"
+    },
     "buttons": {
       "buttonAddJobToQ": "#0078D4",
       "buttonAddJobToQ_disabled": "#808080",
