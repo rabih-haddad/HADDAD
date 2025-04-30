@@ -27,7 +27,23 @@
       "donateButton": "#0078D4",
       "releasenotesButton": "#E1B941",
       "updateButton": "#0078D4",
-      "buttonCreate": "#0a1d29"
+      "buttonCreate": "#0a1d29",
+      "MouseOverBackColor": {
+        "buttonAddJobToQ": "#005A9E",
+        "buttonClearJobQ": "#670700",
+        "buttonConnectVM": "#005A9E",
+        "buttonDeleteVM": "#670700",
+        "buttonGetVMALL": "#775e13",
+        "buttonISO": "#005A9E",
+        "buttonStartVM": "#3b7b3b",
+        "buttonStopVM": "#670700",
+        "buttonVMCalculate": "#775e13",
+        "buttonVMPath": "#005A9E",
+        "donateButton": "#0060aa",
+        "releasenotesButton": "#775e13",
+        "updateButton": "#005A9E",
+        "buttonCreate": "#133a52"
+      }
     }
   }
 },
