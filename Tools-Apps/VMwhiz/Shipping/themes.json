@@ -99,10 +99,10 @@
         }
       },
       "borderColors": {
-        "newVMFrame": "SkyBlue",
+        "newVMFrame": "#87ceeb",
         "existingVMFrame": "#85c6a3",
         "optionsFrame": "#71568d",
-        "statusFrameContainer": "SkyBlue",
+        "statusFrameContainer": "#87ceeb",
         "appAutoUpdateGroupBox": "#71568d",
         "appStartupGroupBox": "#71568d",
         "selectedVMDetailsGroupBox": "#85c6a3",
