@@ -25,6 +25,34 @@
       "appStartupGroupBox": "#0a1d29",
       "optionsFrame": "#0a1d29"
     },
+    "jobQGrid": {
+      "BackgroundColor": "#133a52",
+      "DefaultCellStyle_BackColor": "#133a52",
+      "DefaultCellStyle_SelectionBackColor": "#1A4967",
+      "DefaultCellStyle_ForeColor": "#FFFFFF",
+      "GridColor": "#133a52",
+      "ColumnHeadersDefaultCellStyle_BackColor": "#0a1d29",
+      "ColumnHeadersDefaultCellStyle_ForeColor": "#FFFFFF",
+      "ColumnHeadersDefaultCellStyle_Alignment": "MiddleCenter",
+      "ColumnHeadersDefaultCellStyle_SelectionBackColor": "#FFFF00"
+    },
+    "existingVMGrid": {
+      "BackgroundColor": "#133a52",
+      "BorderStyle": "None",
+      "GridColor": "#133a52",
+      "RowHeadersVisible": false,
+      "ColumnHeadersDefaultCellStyle_BackColor": "#0a1d29",
+      "ColumnHeadersDefaultCellStyle_ForeColor": "#FFFFFF",
+      "ColumnHeadersDefaultCellStyle_Font": "Segoe UI, 9, Bold",
+      "ColumnHeadersDefaultCellStyle_Alignment": "MiddleCenter",
+      "DefaultCellStyle_BackColor": "#133a52",
+      "DefaultCellStyle_ForeColor": "#FFFFFF",
+      "DefaultCellStyle_SelectionBackColor": "#D7E2EB",
+      "DefaultCellStyle_SelectionForeColor": "#191970",
+      "DefaultCellStyle_Alignment": "MiddleLeft",
+      "CellBorderStyle": "SingleHorizontal",
+      "AlternatingRowsDefaultCellStyle_BackColor": "#0E2B3A"
+    },
     "frames": {
       "newVMFrame": "#0a1d29",
       "existingVMFrame": "#0a1d29",
