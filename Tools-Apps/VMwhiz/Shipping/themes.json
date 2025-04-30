@@ -7,7 +7,7 @@
       "panel": "#061119",
       "optionsFrame": "#0a1d29",
       "optionsFrameFore": "#FFFFFF"
-      // ...more properties
+      
     }
   },
   {
@@ -18,7 +18,7 @@
       "panel": "#073642",
       "optionsFrame": "#002b36",
       "optionsFrameFore": "#b58900"
-      // ...more properties
+      
     }
   }
 ]
