@@ -11,6 +11,17 @@
     }
   },
   {
+  "name": "Iyeye",
+  "new": false,
+  "colors": {
+    "form": "#a01002",
+    "panel": "#061119",
+    "optionsFrame": "#0a1d29",
+    "optionsFrameFore": "#FFFFFF"
+    
+  }
+},
+  {
     "name": "Solarized",
     "new": true,
     "colors": {
