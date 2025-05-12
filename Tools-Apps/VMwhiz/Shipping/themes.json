@@ -1,5 +1,5 @@
 [
-{
+{"__comment": "Zee (DarkBlue)",
   "name": "Zee (darkBlue)",
   "new": false,
   "colors": {
@@ -248,8 +248,9 @@
   }
 },
 
-{
-"name": "VBS code dark",
+{"__comment": "VBS code dark (based on Zee darkBlue)",
+
+"name": "Darkie (Dark)",
 "new": true,
 "colors": {
   "diskPie": {
@@ -493,5 +494,486 @@
     "bgPen": { "a": 255, "r": 6, "g": 17, "b": 25 }
   }
 }
+},
+  
+{"__comment": "Matrix Blueish (Blue Pill)",
+  
+  "name": "Pillie (Blueish)",
+  "new": true,
+  "colors": {
+    "diskPie": {
+      "BackgroundColor": "#0e1a24",
+      "UsedColor": "#00eaff",
+      "FreeColor": "#927bc2"
+    },
+    "form": "#101c28",
+    "panel": "#101c28",
+    "optionsFrame": "#101c28",
+    "optionsFrameFore": "#e0f7fa",
+    "panels": {
+      "panel": "#101c28",
+      "statusPanel": "#14202e",
+      "statusFrame": "#14202e",
+      "statusFrameContainer": "#101c28",
+      "tab1Content": "#101c28",
+      "tab2Content": "#101c28",
+      "tab3Content": "#101c28",
+      "calculatorPanel": "#14202e",
+      "HyperVPanel": "#14202e"
+    },
+    "jobQGrid": {
+      "BackgroundColor": "#101c28",
+      "DefaultCellStyle_BackColor": "#101c28",
+      "DefaultCellStyle_SelectionBackColor": "#1e3550",
+      "DefaultCellStyle_ForeColor": "#e0f7fa",
+      "GridColor": "#14202e",
+      "ColumnHeadersDefaultCellStyle_BackColor": "#14202e",
+      "ColumnHeadersDefaultCellStyle_ForeColor": "#e0f7fa"
+    },
+    "grid": {
+      "IncludeBackColor": "#101c28"
+    },
+    "existingVMGrid": {
+      "BackgroundColor": "#101c28",
+      "GridColor": "#14202e",
+      "ColumnHeadersDefaultCellStyle_BackColor": "#14202e",
+      "ColumnHeadersDefaultCellStyle_ForeColor": "#e0f7fa",
+      "DefaultCellStyle_BackColor": "#101c28",
+      "DefaultCellStyle_ForeColor": "#e0f7fa",
+      "DefaultCellStyle_SelectionBackColor": "#1e3550",
+      "DefaultCellStyle_SelectionForeColor": "#00eaff",
+      "AlternatingRowsDefaultCellStyle_BackColor": "#14202e"
+    },
+    "frames": {
+      "newVMFrame": "#101c28",
+      "existingVMFrame": "#101c28",
+      "optionsFrame": "#101c28",
+      "appAutoUpdateGroupBox": "#101c28",
+      "appStartupGroupBox": "#101c28",
+      "selectedVMDetailsGroupBox": "#101c28",
+      "statusStrip": "#101c28"
+    },
+    "buttons": {
+      "buttonAddJobToQ": "#00eaff",
+      "buttonAddJobToQ_disabled": "#355a6c",
+      "buttonClearJobQ": "#00ffb7",
+      "buttonClearJobQ_disabled": "#355a6c",
+      "buttonConnectVM": "#00eaff",
+      "buttonConnectVM_disabled": "#355a6c",
+      "buttonDeleteVM": "#00ffb7",
+      "buttonDeleteVM_disabled": "#355a6c",
+      "buttonGetVMs": "#00ffb7",
+      "buttonGetVMs_disabled": "#355a6c",
+      "buttonISO": "#00eaff",
+      "buttonStartVM": "#00ffb7",
+      "buttonStartVM_disabled": "#355a6c",
+      "buttonStopVM": "#00eaff",
+      "buttonStopVM_disabled": "#355a6c",
+      "buttonVMCalculate": "#00eaff",
+      "buttonVMPath": "#00eaff",
+      "donateButton": "#00eaff",
+      "releasenotesButton": "#00ffb7",
+      "updateButton": "#00eaff",
+      "buttonCreate": "#14202e",
+      "buttonCreate_disabled": "#22334a",
+      "buttonAddJobToQ_fore": "#101c28",
+      "buttonClearJobQ_fore": "#101c28",
+      "buttonConnectVM_fore": "#101c28",
+      "buttonDeleteVM_fore": "#101c28",
+      "buttonGetVMs_fore": "#101c28",
+      "buttonISO_fore": "#101c28",
+      "buttonStartVM_fore": "#101c28",
+      "buttonStopVM_fore": "#101c28",
+      "buttonVMCalculate_fore": "#101c28",
+      "buttonVMPath_fore": "#101c28",
+      "donateButton_fore": "#101c28",
+      "releasenotesButton_fore": "#101c28",
+      "updateButton_fore": "#101c28",
+      "buttonCreate_fore": "#00eaff",
+      "buttonAddJobToQ_disabled_fore": "#355a6c",
+      "buttonClearJobQ_disabled_fore": "#355a6c",
+      "buttonConnectVM_disabled_fore": "#355a6c",
+      "buttonDeleteVM_disabled_fore": "#355a6c",
+      "buttonGetVMs_disabled_fore": "#355a6c",
+      "buttonISO_disabled_fore": "#355a6c",
+      "buttonStartVM_disabled_fore": "#355a6c",
+      "buttonStopVM_disabled_fore": "#355a6c",
+      "buttonVMCalculate_disabled_fore": "#355a6c",
+      "buttonVMPath_disabled_fore": "#355a6c",
+      "donateButton_disabled_fore": "#355a6c",
+      "releasenotesButton_disabled_fore": "#355a6c",
+      "updateButton_disabled_fore": "#355a6c",
+      "buttonCreate_disabled_fore": "#355a6c",
+      "MouseOverBackColor": {
+        "buttonAddJobToQ": "#00b7d6",
+        "buttonClearJobQ": "#00cfa2",
+        "buttonConnectVM": "#00b7d6",
+        "buttonDeleteVM": "#00cfa2",
+        "buttonGetVMs": "#00cfa2",
+        "buttonISO": "#00b7d6",
+        "buttonStartVM": "#00cfa2",
+        "buttonStopVM": "#00b7d6",
+        "buttonVMCalculate": "#00b7d6",
+        "buttonVMPath": "#00b7d6",
+        "donateButton": "#00b7d6",
+        "releasenotesButton": "#00cfa2",
+        "updateButton": "#00b7d6",
+        "buttonCreate": "#1e3550"
+      },
+      "MouseDownBackColor": {
+        "buttonGetVMs": "#00ffb7",
+        "buttonCreate": "#22334a"
+      }
+    },
+    "fontColors": {
+      "AlertLabelWarning": "#00eaff",
+      "VMCalculatorTitleLineRed": "#00eaff",
+      "VMCalculatorTitleLineYellow": "#00ffb7",
+      "hypervServiceGridStatusStopped": "#00eaff",
+      "VMNameLabel": "#e0f7fa",
+      "labelNumVMs": "#e0f7fa",
+      "labelMoreInfo": "#e0f7fa",
+      "ramLabel": "#e0f7fa",
+      "vCPULabel": "#e0f7fa",
+      "networkLabel": "#e0f7fa",
+      "vdiskSizeLabel": "#e0f7fa",
+      "dynamicRadio": "#e0f7fa",
+      "fixedRadio": "#e0f7fa",
+      "CheckpointsCheckBox": "#e0f7fa",
+      "CheckPointStandardRadio": "#e0f7fa",
+      "CheckPointProductionRadio": "#e0f7fa",
+      "generationLabel": "#e0f7fa",
+      "genDescLabel": "#5fd6ff",
+      "isoLabel": "#e0f7fa",
+      "VMPathLabel": "#e0f7fa",
+      "usedLabel": "#e0f7fa",
+      "driveUsedValueLabel": "#00eaff",
+      "freeLabel": "#e0f7fa",
+      "driveFreeValueLabel": "#00ffb7",
+      "sizeLabel": "#e0f7fa",
+      "labelServerStatus": "#e0f7fa",
+      "labelRemoteServerName": "#00ffb7",
+      "labelSelectedVMDetailsTITLE": "#00ffb7",
+      "labelSelectedVMDetails": "#e0f7fa",
+      "labelSelectedVMAction": "#e0f7fa",
+      "hypervServicesLabel": "#e0f7fa",
+      "appUpToDateLabel": "#e0f7fa",
+      "appUpdateStatusLabel": "#e0f7fa",
+      "AutoupdateCheckbox": "#e0f7fa",
+      "updateButton": "#e0f7fa",
+      "autoStartDescLabel": "#e0f7fa",
+      "developerLabel": "#e0f7fa",
+      "descLabel": "#5fd6ff",
+      "appNameLabel": "#e0f7fa",
+      "appVersDateAboutLabel": "#e0f7fa",
+      "themeLabel": "#00eaff",
+      "jobQTitleLabel": "#00eaff",
+      "AlertLabel": "#00eaff",
+      "elapsedBuildTimeLabel": "#00eaff",
+      "totalVMProvisionLabel": "#e0f7fa",
+      "calcResultsLabel": "#00eaff",
+      "statusFrame": "#e0f7fa",
+      "sysInfoDetailsLabel": "#00eaff",
+      "buttonGetVMs": "#101c28",
+      "fetchVMResourceUsageCheckbox": "#00eaff",
+      "newVMFrame": "#00eaff",
+      "optionsFrame": "#00eaff",
+      "existingVMFrame": "#00eaff",
+      "AutoStartCheckbox": "#00eaff",
+      "vmCalculatorTitleLabel": "#00eaff",
+      "InQLabelJOBS": "#00eaff",
+      "InQLabelVMS": "#00eaff",
+      "sysInfoTitleLabel": "#00eaff",
+      "statusStrip": "#00eaff"
+    },
+    "borderColors": {
+      "newVMFrame": "#00eaff",
+      "existingVMFrame": "#00ffb7",
+      "optionsFrame": "#355a6c",
+      "statusFrameContainer": "#00eaff",
+      "appAutoUpdateGroupBox": "#355a6c",
+      "appStartupGroupBox": "#355a6c",
+      "selectedVMDetailsGroupBox": "#00ffb7",
+      "buildHUDBox": "#1e3550",
+      "HyperVPanel": "#355a6c",
+      "manageHUDBox": "#00ffb7",
+      "optionsHUDBox": "#355a6c",
+      "themePanel": "#00eaff"
+    },
+    "dropdownColors": {
+      "ramDropdown": {
+        "BackColor": "#101c28",
+        "ForeColor": "#e0f7fa"
+      },
+      "networkDropdown": {
+        "BackColor": "#101c28",
+        "ForeColor": "#e0f7fa"
+      },
+      "generationDropdown": {
+        "BackColor": "#101c28",
+        "ForeColor": "#e0f7fa"
+      }
+    },
+    "themeGridColors": {
+      "BackColor": "#101c28",
+      "BackColor1": "#14202e",
+      "ForeColor": "#e0f7fa",
+      "AlternatingRowBackColor": "#14202e"
+    },
+    "themeListBox": {
+      "BackColor": "#101c28",
+      "ForeColor": "#e0f7fa",
+      "SelectedBackColor": "#1e3550",
+      "SelectedForeColor": "#00eaff"
+    },
+    "radiantCircleColors": {
+      "default": {
+        "center": { "a": 180, "r": 0, "g": 234, "b": 255 },
+        "edge":   { "a": 0,   "r": 30, "g": 90,  "b": 120 }
+      },
+      "error": {
+        "center": { "a": 180, "r": 255, "g": 0, "b": 90 },
+        "edge":   { "a": 0,   "r": 80, "g": 0, "b": 40 }
+      }
+    },
+    "progressBarColor": "#00eaff",
+    "manageProgressCircleColors": {
+      "fgPen": { "a": 255, "r": 0, "g": 234, "b": 255 },
+      "bgPen": { "a": 255, "r": 16, "g": 28, "b": 40 }
+    }
+  }
+},
+
+{"__comment": "Amy",
+  "name": "Amy (Greenish)",
+  "new": true,
+  "colors": {
+    "form": "#1C2526",
+    "panel": "#1C2526",
+    "optionsFrame": "#1C2526",
+    "optionsFrameFore": "#D1D1D1",
+    "panels": {
+      "panel": "#2C2F33",
+      "statusPanel": "#3A3E43",
+      "statusFrame": "#252A2E",
+      "statusFrameContainer": "#1C2526",
+      "tab1Content": "#1C2526",
+      "tab2Content": "#1C2526",
+      "tab3Content": "#1C2526",
+      "calculatorPanel": "#3E4A50",
+      "HyperVPanel": "#2A3438"
+    },
+    "jobQGrid": {
+      "BackgroundColor": "#2C2F33",
+      "DefaultCellStyle_BackColor": "#2C2F33",
+      "DefaultCellStyle_SelectionBackColor": "#4A5055",
+      "DefaultCellStyle_ForeColor": "#D1D1D1",
+      "GridColor": "#3A3E43",
+      "ColumnHeadersDefaultCellStyle_BackColor": "#1C2526",
+      "ColumnHeadersDefaultCellStyle_ForeColor": "#D1D1D1"
+    },
+    "grid": {
+      "IncludeBackColor": "#2C2F33"
+    },
+    "existingVMGrid": {
+      "BackgroundColor": "#2C2F33",
+      "GridColor": "#3A3E43",
+      "ColumnHeadersDefaultCellStyle_BackColor": "#1C2526",
+      "ColumnHeadersDefaultCellStyle_ForeColor": "#D1D1D1",
+      "DefaultCellStyle_BackColor": "#2C2F33",
+      "DefaultCellStyle_ForeColor": "#D1D1D1",
+      "DefaultCellStyle_SelectionBackColor": "#0A84FF",
+      "DefaultCellStyle_SelectionForeColor": "#FFFFFF",
+      "AlternatingRowsDefaultCellStyle_BackColor": "#252A2E"
+    },
+    "frames": {
+      "newVMFrame": "#1C2526",
+      "existingVMFrame": "#1C2526",
+      "optionsFrame": "#1C2526",
+      "appAutoUpdateGroupBox": "#1C2526",
+      "appStartupGroupBox": "#1C2526",
+      "selectedVMDetailsGroupBox": "#1C2526",
+      "statusStrip": "#1C2526"
+    },
+    "buttons": {
+      "buttonAddJobToQ": "#0A84FF",
+      "buttonAddJobToQ_disabled": "#666666",
+      "buttonClearJobQ": "#FF453A",
+      "buttonClearJobQ_disabled": "#666666",
+      "buttonConnectVM": "#0A84FF",
+      "buttonConnectVM_disabled": "#666666",
+      "buttonDeleteVM": "#FF453A",
+      "buttonDeleteVM_disabled": "#666666",
+      "buttonGetVMs": "#0A84FF",
+      "buttonGetVMs_disabled": "#666666",
+      "buttonISO": "#0A84FF",
+      "buttonStartVM": "#30D158",
+      "buttonStartVM_disabled": "#666666",
+      "buttonStopVM": "#FF453A",
+      "buttonStopVM_disabled": "#666666",
+      "buttonVMCalculate": "#FF9F0A",
+      "buttonVMPath": "#0A84FF",
+      "donateButton": "#0A84FF",
+      "releasenotesButton": "#FF9F0A",
+      "updateButton": "#0A84FF",
+      "buttonCreate": "#252A2E",
+      "buttonCreate_disabled": "#1A1E22",
+      "buttonAddJobToQ_fore": "#FFFFFF",
+      "buttonClearJobQ_fore": "#FFFFFF",
+      "buttonConnectVM_fore": "#FFFFFF",
+      "buttonDeleteVM_fore": "#FFFFFF",
+      "buttonGetVMs_fore": "#FFFFFF",
+      "buttonISO_fore": "#FFFFFF",
+      "buttonStartVM_fore": "#FFFFFF",
+      "buttonStopVM_fore": "#FFFFFF",
+      "buttonVMCalculate_fore": "#FFFFFF",
+      "buttonVMPath_fore": "#FFFFFF",
+      "donateButton_fore": "#FFFFFF",
+      "releasenotesButton_fore": "#FFFFFF",
+      "updateButton_fore": "#FFFFFF",
+      "buttonCreate_fore": "#D1D1D1",
+      "buttonAddJobToQ_disabled_fore": "#999999",
+      "buttonClearJobQ_disabled_fore": "#999999",
+      "buttonConnectVM_disabled_fore": "#999999",
+      "buttonDeleteVM_disabled_fore": "#999999",
+      "buttonGetVMs_disabled_fore": "#999999",
+      "buttonISO_disabled_fore": "#999999",
+      "buttonStartVM_disabled_fore": "#999999",
+      "buttonStopVM_disabled_fore": "#999999",
+      "buttonVMCalculate_disabled_fore": "#999999",
+      "buttonVMPath_disabled_fore": "#999999",
+      "donateButton_disabled_fore": "#999999",
+      "releasenotesButton_disabled_fore": "#999999",
+      "updateButton_disabled_fore": "#999999",
+      "buttonCreate_disabled_fore": "#999999",
+      "MouseOverBackColor": {
+        "buttonAddJobToQ": "#0066CC",
+        "buttonClearJobQ": "#CC362F",
+        "buttonConnectVM": "#0066CC",
+        "buttonDeleteVM": "#CC362F",
+        "buttonGetVMs": "#0066CC",
+        "buttonISO": "#0066CC",
+        "buttonStartVM": "#26A446",
+        "buttonStopVM": "#CC362F",
+        "buttonVMCalculate": "#CC7A00",
+        "buttonVMPath": "#0066CC",
+        "donateButton": "#0066CC",
+        "releasenotesButton": "#CC7A00",
+        "updateButton": "#0066CC",
+        "buttonCreate": "#33637E"
+      },
+      "MouseDownBackColor": {
+        "buttonGetVMs": "#004C99",
+        "buttonCreate": "#2A3E50"
+      }
+    },
+    "fontColors": {
+      "AlertLabelWarning": "#FF9F0A",
+      "VMCalculatorTitleLineRed": "#FF453A",
+      "VMCalculatorTitleLineYellow": "#FF9F0A",
+      "hypervServiceGridStatusStopped": "#FF453A",
+      "VMNameLabel": "#D1D1D1",
+      "labelNumVMs": "#D1D1D1",
+      "labelMoreInfo": "#D1D1D1",
+      "ramLabel": "#D1D1D1",
+      "vCPULabel": "#D1D1D1",
+      "networkLabel": "#D1D1D1",
+      "vdiskSizeLabel": "#D1D1D1",
+      "dynamicRadio": "#D1D1D1",
+      "fixedRadio": "#D1D1D1",
+      "CheckpointsCheckBox": "#D1D1D1",
+      "CheckPointStandardRadio": "#D1D1D1",
+      "CheckPointProductionRadio": "#D1D1D1",
+      "generationLabel": "#D1D1D1",
+      "genDescLabel": "#999999",
+      "isoLabel": "#D1D1D1",
+      "VMPathLabel": "#D1D1D1",
+      "usedLabel": "#D1D1D1",
+      "driveUsedValueLabel": "#0A84FF",
+      "freeLabel": "#D1D1D1",
+      "driveFreeValueLabel": "#30D158",
+      "sizeLabel": "#D1D1D1",
+      "labelServerStatus": "#D1D1D1",
+      "labelRemoteServerName": "#FF9F0A",
+      "labelSelectedVMDetailsTITLE": "#30D158",
+      "labelSelectedVMDetails": "#D1D1D1",
+      "labelSelectedVMAction": "#D1D1D1",
+      "hypervServicesLabel": "#D1D1D1",
+      "appUpToDateLabel": "#D1D1D1",
+      "appUpdateStatusLabel": "#D1D1D1",
+      "AutoupdateCheckbox": "#D1D1D1",
+      "updateButton": "#D1D1D1",
+      "autoStartDescLabel": "#D1D1D1",
+      "developerLabel": "#D1D1D1",
+      "descLabel": "#999999",
+      "appNameLabel": "#D1D1D1",
+      "appVersDateAboutLabel": "#D1D1D1",
+      "themeLabel": "#FF9F0A",
+      "jobQTitleLabel": "#FF9F0A",
+      "AlertLabel": "#FF9F0A",
+      "elapsedBuildTimeLabel": "#FF9F0A",
+      "totalVMProvisionLabel": "#D1D1D1",
+      "calcResultsLabel": "#FF9F0A",
+      "statusFrame": "#D1D1D1",
+      "sysInfoDetailsLabel": "#0A84FF",
+      "buttonGetVMs": "#2C2F33"
+    },
+    "borderColors": {
+      "newVMFrame": "#3A3E43",
+      "existingVMFrame": "#3A3E43",
+      "optionsFrame": "#3A3E43",
+      "statusFrameContainer": "#3A3E43",
+      "appAutoUpdateGroupBox": "#3A3E43",
+      "appStartupGroupBox": "#3A3E43",
+      "selectedVMDetailsGroupBox": "#3A3E43",
+      "buildHUDBox": "#0A84FF",
+      "HyperVPanel": "#3A3E43",
+      "manageHUDBox": "#0A84FF",
+      "optionsHUDBox": "#3A3E43",
+      "themePanel": "#FF9F0A"
+    },
+    "dropdownColors": {
+      "ramDropdown": {
+        "BackColor": "#2C2F33",
+        "ForeColor": "#D1D1D1"
+      },
+      "networkDropdown": {
+        "BackColor": "#2C2F33",
+        "ForeColor": "#D1D1D1"
+      },
+      "generationDropdown": {
+        "BackColor": "#2C2F33",
+        "ForeColor": "#D1D1D1"
+      }
+    },
+    "themeGridColors": {
+      "BackColor": "#2C2F33",
+      "BackColor1": "#1C2526",
+      "ForeColor": "#D1D1D1",
+      "AlternatingRowBackColor": "#252A2E"
+    },
+    "themeListBox": {
+      "BackColor": "#1C2526",
+      "ForeColor": "#D1D1D1",
+      "SelectedBackColor": "#4A5055",
+      "SelectedForeColor": "#FFFFFF"
+    },
+    "radiantCircleColors": {
+      "default": {
+        "center": { "a": 180, "r": 10, "g": 132, "b": 255 },
+        "edge":   { "a": 0,   "r": 50, "g": 50,  "b": 50 }
+      },
+      "error": {
+        "center": { "a": 180, "r": 255, "g": 69,  "b": 58 },
+        "edge":   { "a": 0,   "r": 80,  "g": 20,  "b": 20 }
+      }
+    },
+    "progressBarColor": "#0A84FF",
+    "manageProgressCircleColors": {
+      "fgPen": { "a": 255, "r": 10, "g": 132, "b": 255 },
+      "bgPen": { "a": 255, "r": 58, "g": 62, "b": 67 }
+    }
+  }
 }
+
 ]
