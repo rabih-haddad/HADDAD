@@ -202,7 +202,8 @@
       "HyperVPanel": "#71568d",
       "manageHUDBox": "#85c6a3",
       "optionsHUDBox": "#71568d",
-      "themePanel": "#ffbb04" 
+      "themePanel": "#ffbb04",
+      "aboutPanel": "#a9ff33"
     },
     "dropdownColors": {
       "ramDropdown": {
