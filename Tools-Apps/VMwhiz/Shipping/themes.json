@@ -298,13 +298,13 @@
       "AlternatingRowsDefaultCellStyle_BackColor": "#14202e"
     },
     "frames": {
-      "newVMFrame": "#101c28",
-      "existingVMFrame": "#101c28",
-      "optionsFrame": "#101c28",
-      "appAutoUpdateGroupBox": "#101c28",
-      "appStartupGroupBox": "#101c28",
-      "selectedVMDetailsGroupBox": "#101c28",
-      "statusStrip": "#101c28"
+      "newVMFrame": "#142433",
+      "existingVMFrame": "#142433",
+      "optionsFrame": "#142433",
+      "appAutoUpdateGroupBox": "#142433",
+      "appStartupGroupBox": "#142433",
+      "selectedVMDetailsGroupBox": "#142433",
+      "statusStrip": "#142433"
     },
     "buttons": {
       "buttonAddJobToQ": "#00eaff",
