@@ -452,6 +452,7 @@
       "manageHUDBox": "#00ffb7",
       "optionsHUDBox": "#355a6c",
       "themePanel": "#00eaff"
+      "aboutPanel": "#355a6c"
     },
     "dropdownColors": {
       "ramDropdown": {
