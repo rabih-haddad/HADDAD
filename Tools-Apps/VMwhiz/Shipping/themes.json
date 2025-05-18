@@ -512,7 +512,7 @@
   "colors": {
     "BackgroundColor": "#a01002",
     "UsedColor": "#00bfff",
-    "FreeColor": "#ff9f0a"
+    "FreeColor": "#ff9f0a",
     "form": "#1C2526",
     "panel": "#1C2526",
     "optionsFrame": "#1C2526",
