@@ -498,8 +498,8 @@
   }
 },
 
-{"__comment": "Azelka (Green-brownish)",
-  "name": "Azelka (Green-brownish)",
+{"__comment": "Azelka (Green Brownish)",
+  "name": "Azelka (Green Brownish)",
   "new": false,
   "colors": {
     "form": "#1C2526",
@@ -580,7 +580,7 @@
       "buttonISO_fore": "#FFFFFF",
       "buttonStartVM_fore": "#FFFFFF",
       "buttonStopVM_fore": "#FFFFFF",
-      "buttonVMCalculate_fore": "#FFFFFF",
+      "buttonVMCalculate_fore": "#061119",
       "buttonVMPath_fore": "#FFFFFF",
       "donateButton_fore": "#FFFFFF",
       "releasenotesButton_fore": "#FFFFFF",
