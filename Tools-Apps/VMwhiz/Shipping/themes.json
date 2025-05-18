@@ -410,7 +410,7 @@
       "usedLabel": "#e0f7fa",
       "driveUsedValueLabel": "#00eaff",
       "freeLabel": "#e0f7fa",
-      "driveFreeValueLabel": "#00ffb7",
+      "driveFreeValueLabel": "#927bc2",
       "sizeLabel": "#e0f7fa",
       "labelServerStatus": "#e0f7fa",
       "labelRemoteServerName": "#00ffb7",
@@ -510,6 +510,9 @@
   "name": "Azelka (Green Brownish)",
   "new": false,
   "colors": {
+    "BackgroundColor": "#a01002",
+    "UsedColor": "#00bfff",
+    "FreeColor": "#ff9f0a"
     "form": "#1C2526",
     "panel": "#1C2526",
     "optionsFrame": "#1C2526",
@@ -657,7 +660,7 @@
       "usedLabel": "#D1D1D1",
       "driveUsedValueLabel": "#0A84FF",
       "freeLabel": "#D1D1D1",
-      "driveFreeValueLabel": "#30D158",
+      "driveFreeValueLabel": "#ff9f0a",
       "sizeLabel": "#D1D1D1",
       "labelServerStatus": "#D1D1D1",
       "labelRemoteServerName": "#FF9F0A",
@@ -737,8 +740,8 @@
     },
     "radiantCircleColors": {
       "default": {
-        "center": { "a": 180, "r": 10, "g": 132, "b": 255 },
-        "edge":   { "a": 0,   "r": 50, "g": 50,  "b": 50 }
+        "center": { "a": 180, "r": 87, "g": 60, "b": 27 },
+        "edge":   { "a": 0,   "r": 255, "g": 255,  "b": 183 }
       },
       "error": {
         "center": { "a": 180, "r": 255, "g": 69,  "b": 58 },
