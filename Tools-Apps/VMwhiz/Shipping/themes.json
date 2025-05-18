@@ -684,7 +684,7 @@
       "sysInfoDetailsLabel": "#D1D1D1",
       "buttonGetVMs": "#e6f2fb",
       "fetchVMResourceUsageCheckbox": "#D1D1D1",
-      "newVMFrame": "#00eaff",
+      "newVMFrame": "#D1D1D1",
       "optionsFrame": "#D1D1D1",
       "existingVMFrame": "#D1D1D1",
       "AutoStartCheckbox": "#D1D1D1",
