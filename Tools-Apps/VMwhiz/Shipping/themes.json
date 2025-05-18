@@ -252,7 +252,7 @@
 {"__comment": "Pillie (Blueish)",
   
   "name": "Pillie (Blueish)",
-  "new": true,
+  "new": false,
   "colors": {
     "diskPie": {
       "BackgroundColor": "#0e1a24",
@@ -500,7 +500,7 @@
 
 {"__comment": "Amy",
   "name": "Amy (Greenish)",
-  "new": true,
+  "new": false,
   "colors": {
     "form": "#1C2526",
     "panel": "#1C2526",
@@ -669,7 +669,7 @@
       "totalVMProvisionLabel": "#D1D1D1",
       "calcResultsLabel": "#FF9F0A",
       "statusFrame": "#D1D1D1",
-      "sysInfoDetailsLabel": "#0A84FF",
+      "sysInfoDetailsLabel": "#D1D1D1",
       "buttonGetVMs": "#2C2F33"
     },
     "borderColors": {
@@ -684,7 +684,8 @@
       "HyperVPanel": "#3A3E43",
       "manageHUDBox": "#0A84FF",
       "optionsHUDBox": "#3A3E43",
-      "themePanel": "#FF9F0A"
+      "themePanel": "#FF9F0A",
+      "aboutPanel": "#3A3E43"
     },
     "dropdownColors": {
       "ramDropdown": {
