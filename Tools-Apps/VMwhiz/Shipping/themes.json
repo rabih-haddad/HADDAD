@@ -26,7 +26,7 @@
     "jobQGrid": {
       "BackgroundColor": "#133a52",
       "DefaultCellStyle_BackColor": "#133a52",
-      "DefaultCellStyle_SelectionBackColor": "#1A4967",
+      "DefaultCellStyle_SelectionBackColor": "#3286a3",
       "DefaultCellStyle_ForeColor": "#FFFFFF",
       "GridColor": "#133a52",
       "ColumnHeadersDefaultCellStyle_BackColor": "#0a1d29",
@@ -64,7 +64,7 @@
       "buttonConnectVM_disabled": "#808080",
       "buttonDeleteVM": "#a01002",
       "buttonDeleteVM_disabled": "#808080",
-      "buttonGetVMs": "#85c6a3",
+      "buttonGetVMs": "#286069",
       "buttonGetVMs_disabled": "#808080",
       "buttonISO": "#0078D4",
       "buttonStartVM": "#06b44b",
