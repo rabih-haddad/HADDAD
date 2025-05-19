@@ -517,7 +517,7 @@
     "diskPie": {
       "BackgroundColor": "#a01002",
       "UsedColor": "#59513e",
-      "FreeColor": "#9bbd9f"
+      "FreeColor": "#b59260"
     },
     "form": "#1C2526",
     "panel": "#1C2526",
@@ -653,7 +653,7 @@
       "ramLabel": "#D1D1D1",
       "vCPULabel": "#D1D1D1",
       "networkLabel": "#D1D1D1",
-      "vdiskSizeLabel": "#D1D1D1",
+      "vdiskSizeLabel": "#FFFFFF",
       "dynamicRadio": "#D1D1D1",
       "fixedRadio": "#D1D1D1",
       "CheckpointsCheckBox": "#D1D1D1",
@@ -666,7 +666,7 @@
       "usedLabel": "#D1D1D1",
       "driveUsedValueLabel": "#9bbd9f",
       "freeLabel": "#D1D1D1",
-      "driveFreeValueLabel": "#59513e",
+      "driveFreeValueLabel": "#b59260",
       "sizeLabel": "#D1D1D1",
       "labelServerStatus": "#D1D1D1",
       "labelRemoteServerName": "#cfa251",
