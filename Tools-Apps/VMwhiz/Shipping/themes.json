@@ -406,7 +406,7 @@
       "CheckPointStandardRadio": "#e0f7fa",
       "CheckPointProductionRadio": "#e0f7fa",
       "generationLabel": "#e0f7fa",
-      "genDescLabel": "#5fd6ff",
+      "genDescLabel": "#e0f7fa",
       "isoLabel": "#e0f7fa",
       "VMPathLabel": "#e0f7fa",
       "usedLabel": "#e0f7fa",
@@ -447,9 +447,9 @@
       "vmCalculatorTitleLabel": "#00eaff",
       "InQLabelJOBS": "#00eaff",
       "InQLabelVMS": "#00eaff",
-      "sysInfoTitleLabel": "#00eaff",
+      "sysInfoTitleLabel": "#e0f7fa",
       "statusStrip": "#00eaff",
-      "ExportLogsDescLabel":"#FFFFFF"
+      "ExportLogsDescLabel":"#e0f7fa"
     },
     "borderColors": {
       "newVMFrame": "#00eaff",
@@ -495,7 +495,7 @@
     "radiantCircleColors": {
       "default": {
         "center": { "a": 180, "r": 0, "g": 234, "b": 255 },
-        "edge":   { "a": 0,   "r": 30, "g": 90,  "b": 120 }
+        "edge":   { "a": 0,   "r": 14, "g": 51,  "b": 64 }
       },
       "error": {
         "center": { "a": 180, "r": 255, "g": 0, "b": 90 },
@@ -658,7 +658,7 @@
       "CheckPointStandardRadio": "#D1D1D1",
       "CheckPointProductionRadio": "#D1D1D1",
       "generationLabel": "#D1D1D1",
-      "genDescLabel": "#999999",
+      "genDescLabel": "#D1D1D1",
       "isoLabel": "#D1D1D1",
       "VMPathLabel": "#D1D1D1",
       "usedLabel": "#D1D1D1",
@@ -696,7 +696,7 @@
       "optionsFrame": "#D1D1D1",
       "existingVMFrame": "#D1D1D1",
       "AutoStartCheckbox": "#D1D1D1",
-      "vmCalculatorTitleLabel": "#00eaff",
+      "vmCalculatorTitleLabel": "#D1D1D1",
       "InQLabelJOBS": "#D1D1D1",
       "InQLabelVMS": "#D1D1D1",
       "sysInfoTitleLabel": "#e6f2fb",
