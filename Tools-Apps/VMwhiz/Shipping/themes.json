@@ -516,7 +516,7 @@
   "colors": {
     "diskPie": {
       "BackgroundColor": "#a01002",
-      "UsedColor": "#1b4277",
+      "UsedColor": "#a2c9de",
       "FreeColor": "#cfa251"
     },
     "form": "#1C2526",
@@ -664,7 +664,7 @@
       "isoLabel": "#D1D1D1",
       "VMPathLabel": "#D1D1D1",
       "usedLabel": "#D1D1D1",
-      "driveUsedValueLabel": "#1b4277",
+      "driveUsedValueLabel": "#a2c9de",
       "freeLabel": "#D1D1D1",
       "driveFreeValueLabel": "#cfa251",
       "sizeLabel": "#D1D1D1",
