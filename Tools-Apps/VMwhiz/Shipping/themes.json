@@ -814,7 +814,7 @@
       "appAutoUpdateGroupBox": "#FFFFFF",
       "appStartupGroupBox": "#FFFFFF",
       "selectedVMDetailsGroupBox": "#FFFFFF",
-      "statusStrip": "##061119"
+      "statusStrip": "#061119"
     },
     "buttons": {
       "buttonAddJobToQ": "#007AFF",
@@ -894,7 +894,7 @@
     "fontColors": {
       "AlertLabelWarning": "#FF9500",
       "VMCalculatorTitleLineRed": "#FF3B30",
-      "VMCalculatorTitleLineYellow": "#FFCC00",
+      "VMCalculatorTitleLineYellow": "#266083",
       "hypervServiceGridStatusStopped": "#FF9500",
       "VMNameLabel": "#000000",
       "labelNumVMs": "#000000",
@@ -909,7 +909,7 @@
       "CheckPointStandardRadio": "#000000",
       "CheckPointProductionRadio": "#000000",
       "generationLabel": "#000000",
-      "genDescLabel": "#6B7280",
+      "genDescLabel": "#000000",
       "isoLabel": "#000000",
       "VMPathLabel": "#000000",
       "usedLabel": "#000000",
@@ -947,9 +947,9 @@
       "optionsFrame": "#FFFFFF",
       "existingVMFrame": "#FFFFFF",
       "AutoStartCheckbox": "#FFFFFF",
-      "vmCalculatorTitleLabel": "#FFFFFF",
-      "InQLabelJOBS": "#FFFFFF",
-      "InQLabelVMS": "#FFFFFF",
+      "vmCalculatorTitleLabel": "#102c3e",
+      "InQLabelJOBS": "#102c3e",
+      "InQLabelVMS": "#102c3e",
       "sysInfoTitleLabel": "#0e2b3a",
       "statusStrip": "#FFFFFF"
     },
