@@ -429,7 +429,7 @@
       "developerLabel": "#e0f7fa",
       "descLabel": "#5fd6ff",
       "appNameLabel": "#e0f7fa",
-      "appVersDateAboutLabel": "#e0f7fa",
+      "appVersDateAboutLabel": "#f0f0f0",
       "themeLabel": "#00eaff",
       "jobQTitleLabel": "#ffffb7",
       "AlertLabel": "#00eaff",
@@ -495,7 +495,7 @@
     "radiantCircleColors": {
       "default": {
         "center": { "a": 180, "r": 0, "g": 234, "b": 255 },
-        "edge":   { "a": 0,   "r": 14, "g": 51,  "b": 64 }
+        "edge":   { "a": 0,   "r": 16, "g": 28,  "b": 40 }
       },
       "error": {
         "center": { "a": 180, "r": 255, "g": 0, "b": 90 },
