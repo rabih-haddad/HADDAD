@@ -516,8 +516,8 @@
   "colors": {
     "diskPie": {
       "BackgroundColor": "#a01002",
-      "UsedColor": "#a2c9de",
-      "FreeColor": "#cfa251"
+      "UsedColor": "#59513e",
+      "FreeColor": "#9bbd9f"
     },
     "form": "#1C2526",
     "panel": "#1C2526",
@@ -664,9 +664,9 @@
       "isoLabel": "#D1D1D1",
       "VMPathLabel": "#D1D1D1",
       "usedLabel": "#D1D1D1",
-      "driveUsedValueLabel": "#a2c9de",
+      "driveUsedValueLabel": "#9bbd9f",
       "freeLabel": "#D1D1D1",
-      "driveFreeValueLabel": "#cfa251",
+      "driveFreeValueLabel": "#59513e",
       "sizeLabel": "#D1D1D1",
       "labelServerStatus": "#D1D1D1",
       "labelRemoteServerName": "#cfa251",
