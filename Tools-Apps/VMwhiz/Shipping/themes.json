@@ -784,8 +784,8 @@
       "tab1Content": "#f5f5f5",
       "tab2Content": "#f5f5f5",
       "tab3Content": "#f5f5f5",
-      "calculatorPanel": "#6ba7c9",
-      "HyperVPanel": "#e1f4ff"
+      "calculatorPanel": "#e1f4ff",
+      "HyperVPanel": "#f4fafd"
     },
     "jobQGrid": {
       "BackgroundColor": "#FFFFFF",
