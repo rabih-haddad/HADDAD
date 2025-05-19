@@ -192,7 +192,8 @@
       "InQLabelJOBS": "#e6f2fb",
       "InQLabelVMS": "#e6f2fb",
       "sysInfoTitleLabel": "#e6f2fb",
-      "statusStrip": "#e6f2fb"
+      "statusStrip": "#e6f2fb",
+      "ExportLogsDescLabel":"#FFFFFF"
 
     },
     "borderColors": {
@@ -447,7 +448,8 @@
       "InQLabelJOBS": "#00eaff",
       "InQLabelVMS": "#00eaff",
       "sysInfoTitleLabel": "#00eaff",
-      "statusStrip": "#00eaff"
+      "statusStrip": "#00eaff",
+      "ExportLogsDescLabel":"#FFFFFF"
     },
     "borderColors": {
       "newVMFrame": "#00eaff",
@@ -698,7 +700,8 @@
       "InQLabelJOBS": "#D1D1D1",
       "InQLabelVMS": "#D1D1D1",
       "sysInfoTitleLabel": "#e6f2fb",
-      "statusStrip": "#a2c9de"
+      "statusStrip": "#a2c9de",
+      "ExportLogsDescLabel":"#FFFFFF"
     },
     "borderColors": {
       "newVMFrame": "#3A3E43",
@@ -951,7 +954,8 @@
       "InQLabelJOBS": "#102c3e",
       "InQLabelVMS": "#102c3e",
       "sysInfoTitleLabel": "#0e2b3a",
-      "statusStrip": "#FFFFFF"
+      "statusStrip": "#FFFFFF",
+      "ExportLogsDescLabel":"#000000"
     },
     "borderColors": {
       "newVMFrame": "#C7DFFF",
