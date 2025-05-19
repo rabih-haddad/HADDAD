@@ -8,12 +8,12 @@
     "UsedColor": "#00bfff",
     "FreeColor": "#ffbb04"
   },
-    "form": "#0a1d29",
+    "form": "#061119",
     "panel": "#0a1d29",
     "optionsFrame": "#0a1d29",
     "optionsFrameFore": "#FFFFFF",
     "panels": {
-      "panel": "#927bc2",
+      "panel": "#061119",
       "statusPanel": "#1F1F1F",
       "statusFrame": "#081822",
       "statusFrameContainer": "#0a1d29",
