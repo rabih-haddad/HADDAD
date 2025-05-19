@@ -427,7 +427,7 @@
       "updateButton": "#101c28",
       "autoStartDescLabel": "#e0f7fa",
       "developerLabel": "#e0f7fa",
-      "descLabel": "#5fd6ff",
+      "descLabel": "#e0f7fa",
       "appNameLabel": "#e0f7fa",
       "appVersDateAboutLabel": "#f0f0f0",
       "themeLabel": "#00eaff",
@@ -529,7 +529,7 @@
       "tab1Content": "#1C2526",
       "tab2Content": "#1C2526",
       "tab3Content": "#1C2526",
-      "calculatorPanel": "#1A4967",
+      "calculatorPanel": "#203e2d",
       "HyperVPanel": "#2A3438"
     },
     "jobQGrid": {
@@ -667,7 +667,7 @@
       "driveFreeValueLabel": "#ff9f0a",
       "sizeLabel": "#D1D1D1",
       "labelServerStatus": "#D1D1D1",
-      "labelRemoteServerName": "#FF9F0A",
+      "labelRemoteServerName": "#1e5a32",
       "labelSelectedVMDetailsTITLE": "#30D158",
       "labelSelectedVMDetails": "#D1D1D1",
       "labelExistingVMOperation": "#FFFFFF",
