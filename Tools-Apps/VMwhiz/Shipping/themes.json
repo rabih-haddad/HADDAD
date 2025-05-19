@@ -277,7 +277,7 @@
       "tab1Content": "#142433",
       "tab2Content": "#142433",
       "tab3Content": "#142433",
-      "calculatorPanel": "#102c3e",
+      "calculatorPanel": "#286069",
       "HyperVPanel": "#14202e"
     },
     "jobQGrid": {
@@ -431,7 +431,7 @@
       "appNameLabel": "#e0f7fa",
       "appVersDateAboutLabel": "#e0f7fa",
       "themeLabel": "#00eaff",
-      "jobQTitleLabel": "#00eaff",
+      "jobQTitleLabel": #ffffb7",
       "AlertLabel": "#00eaff",
       "elapsedBuildTimeLabel": "#00eaff",
       "totalVMProvisionLabel": "#e0f7fa",
@@ -444,7 +444,7 @@
       "optionsFrame": "#00eaff",
       "existingVMFrame": "#00eaff",
       "AutoStartCheckbox": "#00eaff",
-      "vmCalculatorTitleLabel": "#00eaff",
+      "vmCalculatorTitleLabel": "#f0f0f0",
       "InQLabelJOBS": "#00eaff",
       "InQLabelVMS": "#00eaff",
       "sysInfoTitleLabel": "#e0f7fa",
