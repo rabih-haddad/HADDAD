@@ -529,7 +529,7 @@
       "tab1Content": "#1C2526",
       "tab2Content": "#1C2526",
       "tab3Content": "#1C2526",
-      "calculatorPanel": "#203e2d",
+      "calculatorPanel": "#2c3b3a",
       "HyperVPanel": "#2A3438"
     },
     "jobQGrid": {
@@ -668,7 +668,7 @@
       "sizeLabel": "#D1D1D1",
       "labelServerStatus": "#D1D1D1",
       "labelRemoteServerName": "#cfa251",
-      "labelSelectedVMDetailsTITLE": "#b59260",
+      "labelSelectedVMDetailsTITLE": "#cfa251",
       "labelSelectedVMDetails": "#D1D1D1",
       "labelExistingVMOperation": "#FFFFFF",
       "labelSelectedVMAction": "#D1D1D1",
