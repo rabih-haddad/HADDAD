@@ -413,7 +413,7 @@
       "driveUsedValueLabel": "#00eaff",
       "freeLabel": "#e0f7fa",
       "driveFreeValueLabel": "#927bc2",
-      "sizeLabel": "#e0f7fa",
+      "sizeLabel": "#FFFFFF",
       "labelServerStatus": "#e0f7fa",
       "labelRemoteServerName": "#00ffb7",
       "labelSelectedVMDetailsTITLE": "#00ffb7",
