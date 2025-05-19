@@ -1,6 +1,6 @@
 [
   {"__comment": "Xyris (Dark Blue)",
-  "name": "Xyris (Dark Blue)",
+  "name": "Xyris (Dark Blue) - Default",
   "new": false,
   "colors": {
     "diskPie": {
@@ -758,7 +758,7 @@
 
   {
   "__comment": "Erylia (Soft White)",
-  "name": "Erylia (Soft White )",
+  "name": "Erylia (Soft White)",
   "new": true,
   "colors": {
     "diskPie": {
@@ -850,7 +850,6 @@
       "donateButton_fore": "#FFFFFF",
       "saveLogsButton_fore": "#FFFFFF",
       "releasenotesButton_fore": "#000000",
-      "updateButton_fore": "#FFFFFF",
       "buttonCreate_fore": "#FFFFFF",
       "buttonAddJobToQ_disabled_fore": "#FFFFFF",
       "buttonClearJobQ_disabled_fore": "#FFFFFF",
@@ -924,7 +923,7 @@
       "appUpToDateLabel": "#000000",
       "appUpdateStatusLabel": "#000000",
       "AutoupdateCheckbox": "#000000",
-      "updateButton": "#000000",
+      "updateButton": "#FFFFFF",
       "autoStartDescLabel": "#000000",
       "developerLabel": "#000000",
       "descLabel": "#6B7280",
@@ -947,7 +946,7 @@
       "vmCalculatorTitleLabel": "#FFFFFF",
       "InQLabelJOBS": "#FFFFFF",
       "InQLabelVMS": "#FFFFFF",
-      "sysInfoTitleLabel": "#FFFFFF",
+      "sysInfoTitleLabel": "#061119",
       "statusStrip": "#FFFFFF"
     },
     "borderColors": {
