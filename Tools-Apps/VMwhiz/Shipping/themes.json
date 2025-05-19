@@ -163,6 +163,7 @@
       "labelSelectedVMDetailsTITLE": "#3c7850",
       "labelSelectedVMDetails": "#FFFFFF",
       "labelSelectedVMAction": "#FFFFFF",
+      "labelExistingVMOperation": "#FFFFFF",
       "hypervServicesLabel": "#FFFFFF",
       "appUpToDateLabel": "#FFFFFF",
       "appUpdateStatusLabel": "#FFFFFF",
@@ -416,6 +417,7 @@
       "labelRemoteServerName": "#00ffb7",
       "labelSelectedVMDetailsTITLE": "#00ffb7",
       "labelSelectedVMDetails": "#e0f7fa",
+      "labelExistingVMOperation": "#FFFFFF",
       "labelSelectedVMAction": "#e0f7fa",
       "hypervServicesLabel": "#e0f7fa",
       "appUpToDateLabel": "#e0f7fa",
@@ -666,6 +668,7 @@
       "labelRemoteServerName": "#FF9F0A",
       "labelSelectedVMDetailsTITLE": "#30D158",
       "labelSelectedVMDetails": "#D1D1D1",
+      "labelExistingVMOperation": "#FFFFFF",
       "labelSelectedVMAction": "#D1D1D1",
       "hypervServicesLabel": "#D1D1D1",
       "appUpToDateLabel": "#D1D1D1",
@@ -811,7 +814,7 @@
       "appAutoUpdateGroupBox": "#FFFFFF",
       "appStartupGroupBox": "#FFFFFF",
       "selectedVMDetailsGroupBox": "#FFFFFF",
-      "statusStrip": "#EDEDED"
+      "statusStrip": "##061119"
     },
     "buttons": {
       "buttonAddJobToQ": "#007AFF",
@@ -918,6 +921,7 @@
       "labelRemoteServerName": "#FF9500",
       "labelSelectedVMDetailsTITLE": "#007AFF",
       "labelSelectedVMDetails": "#000000",
+      "labelExistingVMOperation": "#000000",
       "labelSelectedVMAction": "#000000",
       "hypervServicesLabel": "#000000",
       "appUpToDateLabel": "#000000",
@@ -946,7 +950,7 @@
       "vmCalculatorTitleLabel": "#FFFFFF",
       "InQLabelJOBS": "#FFFFFF",
       "InQLabelVMS": "#FFFFFF",
-      "sysInfoTitleLabel": "#061119",
+      "sysInfoTitleLabel": "#0e2b3a",
       "statusStrip": "#FFFFFF"
     },
     "borderColors": {
