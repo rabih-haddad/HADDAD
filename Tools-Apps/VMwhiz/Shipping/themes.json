@@ -389,7 +389,7 @@
       }
     },
     "fontColors": {
-      "AlertLabelWarning": "#00eaff",
+      "AlertLabelWarning": "#cfa251",
       "VMCalculatorTitleLineRed": "#00eaff",
       "VMCalculatorTitleLineYellow": "#00ffb7",
       "hypervServiceGridStatusStopped": "#00eaff",
