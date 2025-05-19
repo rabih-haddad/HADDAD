@@ -895,7 +895,7 @@
       }
     },
     "fontColors": {
-      "AlertLabelWarning": "#FF9500",
+      "AlertLabelWarning": "#a01002",
       "VMCalculatorTitleLineRed": "#FF3B30",
       "VMCalculatorTitleLineYellow": "#266083",
       "hypervServiceGridStatusStopped": "#FF9500",
@@ -939,7 +939,7 @@
       "themeLabel": "#FF9500",
       "jobQTitleLabel": "#573c1b",
       "AlertLabel": "#573c1b",
-      "elapsedBuildTimeLabel": "#FF9500",
+      "elapsedBuildTimeLabel": "#573c1b",
       "totalVMProvisionLabel": "#000000",
       "calcResultsLabel": "#FF9500",
       "statusFrame": "#000000",
