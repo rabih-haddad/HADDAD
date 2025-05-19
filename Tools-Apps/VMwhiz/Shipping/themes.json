@@ -514,9 +514,11 @@
   "name": "Azelka (Brown-Greenish)",
   "new": false,
   "colors": {
-    "BackgroundColor": "#a01002",
-    "UsedColor": "#1b4277",
-    "FreeColor": "#cfa251",
+    "diskPie": {
+      "BackgroundColor": "#a01002",
+      "UsedColor": "#1b4277",
+      "FreeColor": "#cfa251"
+    },
     "form": "#1C2526",
     "panel": "#1C2526",
     "optionsFrame": "#1C2526",
@@ -571,7 +573,7 @@
       "buttonClearJobQ_disabled": "#666666",
       "buttonConnectVM": "#0A84FF",
       "buttonConnectVM_disabled": "#666666",
-      "buttonDeleteVM": "#a14833",
+      "buttonDeleteVM": "#FF453A",
       "buttonDeleteVM_disabled": "#666666",
       "buttonGetVMs": "#0A84FF",
       "buttonGetVMs_disabled": "#666666",
