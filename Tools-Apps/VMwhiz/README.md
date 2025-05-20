@@ -1,4 +1,4 @@
-<img src="Release/Images/VMwhiz-Icon-Transparent.png" alt="VMwhiz" width="42" height="42"> <img src="Release/Images/VMwhiz_Transparent.png" alt="VMwhiz" width="190" height="42">
+<img src="Release/Images/VMwhiz-Icon-Transparent.png" alt="VMwhiz" width="42" height="42"> <img src="Release/Images/VMwhiz_Transparent.png" alt="VMwhiz" width="190" height="42"> 
 
 
 ##
@@ -8,8 +8,8 @@ VMwhiz is a PowerShell-based graphical user interface (GUI) application designed
 
 Developed by Rabih HADDAD, VMwhiz provides an intuitive experience for IT experts and administrators to efficiently manage VM workflows.
 
-- **Version**: 1.0 (pre-release 0.9.1)  
-- **Release Date**: April 09, 2025  
+- **Version**: 1.0 (pre-release 0.9.3)  
+- **Release Date**: May 20, 2025  
 - **Developer**: Rabih HADDAD  
 
 ##
@@ -19,7 +19,10 @@ Developed by Rabih HADDAD, VMwhiz provides an intuitive experience for IT expert
 
 VMwhiz improves the provisioning of virtual machines within Microsoft Hyper-V environments. Its core functionalities include bulk VM deployment, efficient resource allocation, real-time operation monitoring, and robust integration with Microsoft Hyper-V.
 
-<img src="Release/Images/VMwhiz_Screenshot_001.png" alt="VMwhiz">
+<div style="display: flex; justify-content: space-between;">
+  <img src="Release/Images/VMwhiz_Screenshot_005.png" alt="VMwhiz" width="40%">
+  <img src="Release/Images/VMwhiz_Screenshot_007.png" alt="VMwhiz" width="40%">
+</div>
 
 ## Features
 
@@ -77,7 +80,7 @@ The VMwhiz executable (`VMwhiz.exe`) may be flagged as potentially malicious by 
 1. **Start VMwhiz**:  
    - Launch the `.exe`. A loading screen validates prerequisites before displaying the main interface.  
 
-<img src="Release/Images/VMwhiz_Screenshot_002.png" alt="VMwhiz" align="right">
+<img src="Release/Images/VMwhiz_Screenshot_006.png" alt="VMwhiz" align="right" width="50%">
 
 2. **Main Interface**:  
    - **VM Name**: Specify a base name for new VMs (e.g., "TestVM").  
