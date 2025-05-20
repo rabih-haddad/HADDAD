@@ -1,4 +1,11 @@
-<img src="Images/VMwhiz-Icon-Transparent.png" alt="VMwhiz" width="42" height="42"> <img src="Images/VMwhiz_Transparent.png" alt="VMwhiz" width="190" height="42">
+
+<img src="Images/VMwhiz-Icon-Transparent.png" alt="VMwhiz Icon" width="42" height="42" style="border: none;"> <img src="Images/VMwhiz_Transparent.png" alt="VMwhiz Logo" width="190" height="42" style="border: none;">
+ ###### If you find this project helpful, consider supporting it with a donation via PayPal! [<img src="Images/paypal.png" alt="Donate with PayPal" width="70" style="border: none;">](https://www.paypal.com/donate/?hosted_button_id=JH5TY4KL2DM4C)
+ ##
+<div style="display: flex; justify-content: space-between;">
+  <img src="Images/VMwhiz_Screenshot_005.png" alt="VMwhiz" width="40%">
+  <img src="Images/VMwhiz_Screenshot_007.png" alt="VMwhiz" width="40%">
+</div>
 
 ##
 ## **Release notes**
