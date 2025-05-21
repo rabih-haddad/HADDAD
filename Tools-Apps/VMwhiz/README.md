@@ -7,7 +7,7 @@
   <img src="Release/Images/VMwhiz_Screenshot_007.png" alt="VMwhiz" width="40%">
 </div>
 
-##
+
 
 ##
 
@@ -27,10 +27,6 @@ Developed by Rabih HADDAD, VMwhiz provides an intuitive experience for IT expert
 
 VMwhiz improves the provisioning of virtual machines within Microsoft Hyper-V environments. Its core functionalities include bulk VM deployment, efficient resource allocation, real-time operation monitoring, and robust integration with Microsoft Hyper-V.
 
-<div style="display: flex; justify-content: space-between;">
-  <img src="Release/Images/VMwhiz_Screenshot_005.png" alt="VMwhiz" width="40%">
-  <img src="Release/Images/VMwhiz_Screenshot_007.png" alt="VMwhiz" width="40%">
-</div>
 
 ## Features
 
